@@ -4,15 +4,15 @@ import os
 import json
 from google import genai
 from google.genai import types
-#oop: Class- field, constructor, method, instance
-# pydantic- basemodel= data validation, 
+
+# --- Pydantic Models ---
 class QAPair(BaseModel):
     """Structure for a single Q&A entry based on the pharmaceutical formulation requirements."""
     
     input_paragraph: str = Field(
         description="Extract the specific verbatim paragraph from the text which refers to the question, answer, and reasoning."
     )
-    question: str = Field(
+    question: str = Field( 
         description="The question text. Ensure it is numbered (e.g., '1. What is...')."
     )
     answer_and_reasoning: str = Field(
@@ -32,10 +32,37 @@ class FormulationAnalysis(BaseModel):
         description="A list of exactly 20 high-quality question and answer pairs using precise pharmaceutical terminology."
     )
 
+# --- Helper Function ---
+def load_key_from_desktop():
+    # 'r' tells Python to treat backslashes as literal characters
+    key_path = r"C:\Users\howar\Desktop\api_key.txt"
+    
+    try:
+        with open(key_path, "r") as file:
+            # .strip() is crucial! It removes hidden newlines (\n) or spaces
+            api_key = file.read().strip()
+            return api_key
+    except FileNotFoundError:
+        print(f"Error: Could not find the key file at {key_path}")
+        return None
 
-client = genai.Client(api_key='AIzaSyCNFFT-Dc0F-7evD8UMB9hsK8YnHDasjtA')
-MODEL_NAME = "gemini-2.5-flash"
-PDF_PATH = "/home/qwerthjkl45/roche/biollm/test.pdf"  # <--- UPDATE THIS PATH
+# --- Main Configuration ---
+
+# 1. Load the key
+my_api_key = load_key_from_desktop()
+
+# 2. Initialize Client (Stop if no key)
+if not my_api_key:
+    print("Stop: No API Key found.")
+    exit()
+
+# Initialize the client from the new 'google.genai' library
+client = genai.Client(api_key=my_api_key)
+print("Success: API Key loaded and Client configured.")
+
+# Constants
+MODEL_NAME = "gemini-1.5-flash"  # Changed from 2.5 (doesn't exist) to 1.5
+PDF_PATH = r"C:\Users\howar\Desktop\biollm\test.pdf"  # Fixed path slashes
 
 PHARMA_PROMPT_TEXT = """
 You are a pharmaceutical formulation expert.
@@ -54,18 +81,22 @@ You are a pharmaceutical formulation expert.
 """
 
 def analyze_formulation_paper(pdf_path: str):
+    if not os.path.exists(pdf_path):
+        print(f"Error: File not found at {pdf_path}")
+        return None
+
     print(f"1. Uploading file: {os.path.basename(pdf_path)}...")
     
-    # Upload file
-    uploaded_file = client.files.upload(
-        file=pdf_path
-    )
-    print(f"   -> File uploaded: {uploaded_file.name}")
-
-    # Generate content using the schema defined above
-    print("2. Generating analysis (Summary + 20 Q&A)...")
-    
     try:
+        # Upload file
+        uploaded_file = client.files.upload(
+            file=pdf_path
+        )
+        print(f"   -> File uploaded: {uploaded_file.name}")
+
+        # Generate content using the schema defined above
+        print("2. Generating analysis (Summary + 20 Q&A)...")
+        
         response = client.models.generate_content(
             model=MODEL_NAME,
             contents=[
@@ -81,13 +112,18 @@ def analyze_formulation_paper(pdf_path: str):
         )
 
         # Parse the response
-        result = json.loads(response.text)
-        print(response.usage_metadata)
-        print('******')
-        # Clean up file
-        client.files.delete(name=uploaded_file.name)
-        
-        return result
+        if response.text:
+            result = json.loads(response.text)
+            print(f"Usage: {response.usage_metadata}")
+            print('******')
+            
+            # Clean up file to save storage
+            client.files.delete(name=uploaded_file.name)
+            
+            return result
+        else:
+            print("Error: Empty response text.")
+            return None
 
     except Exception as e:
         print(f"Error occurred: {e}")
@@ -95,20 +131,17 @@ def analyze_formulation_paper(pdf_path: str):
 
 # --- Execution ---
 if __name__ == "__main__":
-    if not os.path.exists(PDF_PATH):
-        print("Please set the correct PDF_PATH.")
-    else:
-        data = analyze_formulation_paper(PDF_PATH)
+    data = analyze_formulation_paper(PDF_PATH)
+    
+    if data:
+        print("\n" + "="*50)
+        print(f"SUMMARY: {data.get('brief_summary')}")
+        print("="*50 + "\n")
         
-        if data:
-            print("\n" + "="*50)
-            print(f"SUMMARY: {data.get('brief_summary')}")
-            print("="*50 + "\n")
-            
-            qa_list = data.get('qa_pairs', [])
-            for item in qa_list:
-                print(f"Q: {item['question']}")
-                print(f"A & Reasoning: {item['answer_and_reasoning']}")
-                print(f"Source Paragraph: {item['input_paragraph'][:100]}...") # Printing first 100 chars
-                print(f"PMID: {item['source_pmid']}")
-                print("-" * 30)
+        qa_list = data.get('qa_pairs', [])
+        for item in qa_list:
+            print(f"Q: {item['question']}")
+            print(f"A & Reasoning: {item['answer_and_reasoning']}")
+            print(f"Source Paragraph: {item['input_paragraph'][:100]}...") 
+            print(f"PMID: {item['source_pmid']}")
+            print("-" * 30)
