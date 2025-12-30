@@ -1,6 +1,6 @@
 # CDMO_Formulation_LLM
 
-## Part1: Chemistry, Manufacturing, and Controls Knowledge Extracted Q-A Pairs, Serve as the foundation of next step Supervised Fine-Tuning of Vernus-ReAltX Meta-Llama-3.1 model.
+Part1: Chemistry, Manufacturing, and Controls Knowledge Extracted Q-A Pairs, Serve as the foundation of next step Supervised Fine-Tuning of Vernus-ReAltX Meta-Llama-3.1 model.
 
 ## 🚀 Key Features
 * **Standardized APIs**: Streamlines model switching and comparative analyses.
