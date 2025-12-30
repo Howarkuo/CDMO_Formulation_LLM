@@ -1,27 +1,26 @@
-# BioLLM: A Standardized Framework for Integrating and Benchmarking Single-Cell Foundation Models
+# CDMO_Formulation_LLM
 
-**BioLLM** is a standardized framework designed to facilitate the integration and application of single-cell Foundation Models (scFMs) in single-cell RNA sequencing analyses. It provides a cohesive interface, enabling researchers to access various scFMs regardless of architectural differences or coding standards.
 
 ## 🚀 Key Features
 * **Standardized APIs**: Streamlines model switching and comparative analyses.
-* **Comprehensive Documentation**: Incorporates best practices for consistent model evaluation.
-* **PMC QA & PDF Scraping**: Automated workflows for retrieving and analyzing literature from PubMed Central.
+* **CMC & Formulation Analysis**: Automated, deep-reasoning workflows for pharmaceutical risk assessment and formulation optimization.
+* **Gemini 2.0 Integration**: Leverages the latest multimodal models (Flash & Flash-Thinking) for direct PDF analysis without external OCR tools.
 
 ---
 
 ## 📸 Workflows
 
-### PMC QA and PDF Scraping Pipeline
-The following figure illustrates the workflow for scraping PDFs from PMC and performing Question Answering (QA).
+### Pharmaceutical Formulation & CMC Risk Analysis
+The following pipeline illustrates the workflow for processing academic PDFs to extract formulation parameters and assess manufacturing risks.
 
 ![PMC QA + PDF Scrape Workflow](https://github.com/Howarkuo/BioLLM/blob/main/Fig/PMC_QA%2BPDF_scrape.png?raw=true)
 
 ---
 
-## 🛠️ Installation
+## 📦 Packages Required
 
-### From Source
+To run the CMC analysis and scraping scripts, you must install the Google GenAI SDK and Pydantic.
+
+**Install via pip:**
 ```bash
-git clone [https://github.com/Howarkuo/BioLLM.git](https://github.com/Howarkuo/BioLLM.git)
-cd BioLLM
-python ./setup.py
+pip install google-genai pydantic
