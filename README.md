@@ -3,7 +3,25 @@
 ## Part1: Chemistry, Manufacturing, and Controls Knowledge Extracted Q-A Pairs
 Serve as the foundation of next step Supervised Fine-Tuning of Vernus-ReAltX Meta-Llama-3.1 model.
 
+## 🚀 Key Features
+* **Standardized APIs**: Streamlines model switching and comparative analyses.
+* **Smart PDF Retrieval**: Automated pipeline to fetch full-text PDFs from PubMed Central using NCBI E-utilities.
+* **CMC & Formulation Analysis**: Automated, deep-reasoning workflows for pharmaceutical risk assessment.
+* **Gemini 2.5 Integration**: Leverages the latest multimodal models for direct PDF analysis.
 
+---
+### 0. Unique Logic: Smart PDF Retrieval
+
+BioLLM solves the challenge of bulk-accessing scientific literature by implementing a **"Smart Retrieval"** logic that goes beyond simple web scraping.
+
+**Library Used:** `requests`
+**Target Service:** [NCBI E-utilities](https://www.ncbi.nlm.nih.gov/books/NBK25501/) & [PMC Open Access Service](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)
+
+**How it works:**
+1.  **Query Handling**: Uses `esearch.fcgi` to find relevant articles (PMIDs) based on complex boolean queries (e.g., "(Drug Formulation) AND (Emulsion)").
+2.  **ID Mapping**: Automatically converts PMIDs to PMCIDs using `esummary.fcgi`, as only PMCIDs allow direct Open Access downloads.
+3.  **Dynamic Link Resolution**: Queries the **PMC Open Access API (`oa.fcgi`)** to retrieve the exact file location for every paper.
+4.  **Archive Handling**: If a direct PDF is missing, the script intelligently downloads the `.tar.gz` package, extracts it, and locates the hidden PDF file inside.
 
 ### 1. Evidence-Anchored Verification
 To eliminate hallucinations common in scientific LLM applications, our prompts enforce an **Evidence-First Constraint**.
