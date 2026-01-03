@@ -97,12 +97,16 @@ The following pipeline illustrates the workflow for processing academic PDFs to 
 
 ## 📦 Packages Required
 
-To run the CMC analysis and scraping scripts, you must install the Google GenAI SDK and Pydantic.
+To run the CMC analysis and scraping scripts, you must install the following packages.
 
-**Install via pip:**
+**Install via pip (Ubuntu Server) / poetry (Local PC):**
 ```bash
-pip install google-genai pydantic
+pip install elsapy curl_cffi beautifulsoup4 pypdf google-genai pydantic requests
 ```
+```bash
+poetry add elsapy curl_cffi beautifulsoup4 pypdf google-genai pydantic requests
+```
+
 ### Major Publisher DOI Prefixes
 
 | Publisher / Distributor | Common Prefix(es) | Example Journals |
@@ -133,3 +137,15 @@ pip install google-genai pydantic
 | **Access** | **Open / Flexible**<br>Can theoretically access any public-facing URL (Open Access or public HTML pages), regardless of API permissions. | **Restricted**<br>Strictly limited to content your university subscribes to. Returns `403 Forbidden` for non-subscribed content even if technically viewable on the web. |
 | **Speed** | **Medium (Throttled)**<br>Faster than Selenium/Playwright (no GUI overhead), but requires artificial pauses (`sleep`) to avoid IP bans. | **Fast (Optimized)**<br>Limited only by official API quotas. No need to "sleep" to pretend to be human. |
 
+### Comparison: `curl_cffi` vs. `Playwright`
+
+| Feature | `curl_cffi` (`crequests`) | `Playwright` (`sync_playwright`) |
+| :--- | :--- | :--- |
+| **Type** | **HTTP Client** (Network Layer) | **Browser Automation** (Application Layer) |
+| **How it works** | Sends raw HTTP requests but spoofs TLS/JA3 fingerprints and HTTP/2 headers to look like a browser. | Launches a real browser engine (Chromium/Firefox) and controls it programmatically. |
+| **JavaScript Support** | ❌ **None.** It fetches the HTML code exactly as the server sends it. It cannot run scripts. | ✅ **Full.** It renders the page, runs JS, executes React/Vue/Angular, and waits for dynamic content. |
+| **Anti-Bot Evasion** | **High (Network Level).** Excellent at bypassing "Access Denied" screens (Cloudflare/Akamai) that check TLS signatures. | **Medium/Hard.** Anti-bots can detect the "automation" flags in the browser. Often requires extra plugins (`playwright-stealth`) to hide. |
+| **Speed** | 🚀 **Very Fast.** Lightweight, low CPU/RAM usage. Can scrape thousands of pages quickly. | 🐢 **Slow.** Heavy CPU/RAM usage. Loading a full browser for every page takes time and memory. |
+| **Resource Usage** | Low (Kilobytes of RAM). | High (Hundreds of Megabytes of RAM per page). |
+| **Complexity** | **Simple.** Very similar to the standard Python `requests` library. | **Complex.** Requires managing browser contexts, pages, selectors, and timeouts. |
+| **Best For** | • Bypassing Cloudflare/Incapsula.<br>• Scraping APIs.<br>• Static websites (like MDPI/PubMed). | • Websites that render content after loading (SPA).<br>• Complex interactions (Login flows, clicking "Show More").<br>• Taking screenshots/PDFs of pages. |
