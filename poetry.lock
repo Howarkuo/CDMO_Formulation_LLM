@@ -358,6 +358,21 @@ files = [
 ]
 
 [[package]]
+name = "elsapy"
+version = "0.5.1"
+description = "A Python module for use with Elsevier's APIs: Scopus, ScienceDirect, others - see https://api.elsevier.com"
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "elsapy-0.5.1-py3-none-any.whl", hash = "sha256:942592627060f2ed90d9dfcbc452cb3a83f0d03f7b3335f3221ef095aca60e9a"},
+    {file = "elsapy-0.5.1.tar.gz", hash = "sha256:95b0a5094fa4669b0f7257d7d87a2420f91ccab9a039a9a0eb5e43f56fe9ca19"},
+]
+
+[package.dependencies]
+requests = "*"
+
+[[package]]
 name = "google-auth"
 version = "2.45.0"
 description = "Google Authentication Library"
@@ -1063,4 +1078,4 @@ files = [
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12"
-content-hash = "50922df51745932219b5d6fecd08c942ab4079cbd17fb1d67bb19b2f063e9b75"
+content-hash = "72221e109c7c884c7bc5f6ba81e74fd71af0ab8d92a1b9f39d4db515d803ca8e"

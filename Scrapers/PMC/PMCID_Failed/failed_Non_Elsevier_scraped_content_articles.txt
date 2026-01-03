@@ -1,0 +1,5 @@
+PMID, Publisher, DOI
+35358937, Ultrason Sonochem, 10.1016/j.ultsonch.2022.105986
+37207857, Int J Pharm, 10.1016/j.ijpharm.2023.123055
+37578286, Mol Pharm, 10.1021/acs.molpharmaceut.3c00240
+40611782, Mol Pharm, 10.1021/acs.molpharmaceut.4c01357
