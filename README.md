@@ -102,3 +102,34 @@ To run the CMC analysis and scraping scripts, you must install the Google GenAI 
 **Install via pip:**
 ```bash
 pip install google-genai pydantic
+```
+### Major Publisher DOI Prefixes
+
+| Publisher / Distributor | Common Prefix(es) | Example Journals |
+| ----------------------- | ----------------- | ---------------- |
+| **Elsevier** | `10.1016` | The Lancet, Cell, ScienceDirect journals |
+| **Springer Nature** | `10.1007` (Springer)<br>`10.1038` (Nature)<br>`10.1186` (BMC) | Nature, Scientific Reports, SpringerLink |
+| **Wiley** | `10.1002`<br>`10.1111` | Advanced Materials, Angewandte Chemie |
+| **Taylor & Francis** | `10.1080` | Routledge, CRC Press journals |
+| **ACS** (American Chemical Society) | `10.1021` | JACS, Chemical Reviews |
+| **IEEE** | `10.1109` | IEEE Transactions, IEEE Xplore |
+| **AAAS** (Science) | `10.1126` | Science, Science Immunology |
+| **MDPI** | `10.3390` | Molecules, Sensors, IJMS |
+| **PLOS** (Public Library of Science) | `10.1371` | PLOS ONE, PLOS Biology |
+| **Frontiers** | `10.3389` | Frontiers in Immunology, Frontiers in Psychology |
+| **Oxford University Press** | `10.1093` | Academic.oup.com journals |
+| **Cambridge University Press** | `10.1017` | Cambridge Core journals |
+| **SAGE Publishing** | `10.1177` | SAGE Journals |
+| **RSC** (Royal Society of Chemistry) | `10.1039` | ChemComm, Dalton Transactions |
+| **AIP** (American Institute of Physics) | `10.1063` | Applied Physics Letters, JCP |
+| **APS** (American Physical Society) | `10.1103` | Physical Review Letters (PRL) |
+
+### Comparison: `elsapy` vs. `curl_cffi` Scraper
+
+| Feature | **Previous Script (`curl_cffi` Scraper)** | **New Script (`elsapy`)** |
+| :--- | :--- | :--- |
+| **Method** | **"Grey Hat" (Browser Impersonation)**<br>Uses `curl_cffi` to spoof **TLS/JA3 fingerprints** and HTTP/2 headers. This makes the Python script mathematically indistinguishable from a real Chrome browser at the network packet level, bypassing advanced anti-bot systems (like Cloudflare) that block standard Python requests. | **"White Hat" (Authorized API)**<br>Uses official developer keys to authenticate directly with the Elsevier server. The server knows you are a script and grants access based on your institutional rights. |
+| **Reliability** | **Volatile**<br>Vulnerable to breakage if the website updates its HTML structure (DOM changes) or upgrades its anti-bot security. | **Stable**<br>APIs are versioned and designed for machine use; they rarely change their structure. |
+| **Access** | **Open / Flexible**<br>Can theoretically access any public-facing URL (Open Access or public HTML pages), regardless of API permissions. | **Restricted**<br>Strictly limited to content your university subscribes to. Returns `403 Forbidden` for non-subscribed content even if technically viewable on the web. |
+| **Speed** | **Medium (Throttled)**<br>Faster than Selenium/Playwright (no GUI overhead), but requires artificial pauses (`sleep`) to avoid IP bans. | **Fast (Optimized)**<br>Limited only by official API quotas. No need to "sleep" to pretend to be human. |
+
