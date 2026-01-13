@@ -1,0 +1,133 @@
+2026-01-09 19:39:26,486 - elsapy.elsclient - INFO - Module loaded.
+2026-01-09 19:39:26,489 - elsapy.elsentity - INFO - Module loaded.
+2026-01-09 19:39:26,489 - elsapy.elsdoc - INFO - Module loaded.
+2026-01-09 19:39:27,531 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2021.09.038
+2026-01-09 19:40:00,470 - elsapy.elsclient - INFO - Module loaded.
+2026-01-09 19:40:00,472 - elsapy.elsentity - INFO - Module loaded.
+2026-01-09 19:40:00,473 - elsapy.elsdoc - INFO - Module loaded.
+2026-01-09 19:40:18,711 - elsapy.elsclient - INFO - Module loaded.
+2026-01-09 19:40:18,715 - elsapy.elsentity - INFO - Module loaded.
+2026-01-09 19:40:18,715 - elsapy.elsdoc - INFO - Module loaded.
+2026-01-09 19:40:45,853 - elsapy.elsclient - INFO - Module loaded.
+2026-01-09 19:40:45,855 - elsapy.elsentity - INFO - Module loaded.
+2026-01-09 19:40:45,855 - elsapy.elsdoc - INFO - Module loaded.
+2026-01-09 19:42:06,136 - elsapy.elsclient - INFO - Module loaded.
+2026-01-09 19:42:06,138 - elsapy.elsentity - INFO - Module loaded.
+2026-01-09 19:42:06,138 - elsapy.elsdoc - INFO - Module loaded.
+2026-01-09 19:42:07,138 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2021.09.038
+2026-01-09 19:42:08,274 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2021.09.038
+2026-01-09 19:42:08,286 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2021.09.038 to file
+2026-01-09 19:42:09,822 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2014.08.029
+2026-01-09 19:42:10,844 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2014.08.029
+2026-01-09 19:42:10,850 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2014.08.029 to file
+2026-01-09 19:42:12,160 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2017.09.043
+2026-01-09 19:42:13,133 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2017.09.043
+2026-01-09 19:42:13,138 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2017.09.043 to file
+2026-01-09 19:42:14,133 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2009.08.023
+2026-01-09 19:42:15,077 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2009.08.023
+2026-01-09 19:42:15,080 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2009.08.023 to file
+2026-01-09 19:42:16,243 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2024.124661
+2026-01-09 19:42:17,277 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2024.124661
+2026-01-09 19:42:17,282 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2024.124661 to file
+2026-01-09 19:42:18,460 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2019.118609
+2026-01-09 19:42:19,472 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2019.118609
+2026-01-09 19:42:19,474 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2019.118609 to file
+2026-01-09 19:42:20,616 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2009.11.008
+2026-01-09 19:42:21,657 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2009.11.008
+2026-01-09 19:42:21,660 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2009.11.008 to file
+2026-01-09 19:42:23,311 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2008.03.013
+2026-01-09 19:42:24,299 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2008.03.013
+2026-01-09 19:42:24,303 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2008.03.013 to file
+2026-01-09 19:42:25,531 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.vaccine.2006.07.055
+2026-01-09 19:42:26,557 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.vaccine.2006.07.055
+2026-01-09 19:42:26,564 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.vaccine.2006.07.055 to file
+2026-01-09 19:42:27,785 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.vaccine.2016.12.057
+2026-01-09 19:42:28,878 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.vaccine.2016.12.057
+2026-01-09 19:42:28,883 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.vaccine.2016.12.057 to file
+2026-01-09 19:42:30,915 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2023.123055
+2026-01-09 19:42:32,164 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2023.123055
+2026-01-09 19:42:32,167 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2023.123055 to file
+2026-01-09 19:42:33,240 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.canlet.2017.08.004
+2026-01-09 19:42:34,185 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.canlet.2017.08.004
+2026-01-09 19:42:34,186 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.canlet.2017.08.004 to file
+2026-01-09 19:42:36,071 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2013.08.011
+2026-01-09 19:42:36,977 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2013.08.011
+2026-01-09 19:42:36,980 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2013.08.011 to file
+2026-01-09 19:42:38,261 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ejpb.2021.03.007
+2026-01-09 19:42:39,333 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ejpb.2021.03.007
+2026-01-09 19:42:39,335 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ejpb.2021.03.007 to file
+2026-01-09 19:42:40,485 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.jvir.2020.01.026
+2026-01-09 19:42:41,427 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.jvir.2020.01.026
+2026-01-09 19:42:41,431 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.jvir.2020.01.026 to file
+2026-01-09 19:42:42,916 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2015.08.039
+2026-01-09 19:42:43,850 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2015.08.039
+2026-01-09 19:42:43,852 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2015.08.039 to file
+2026-01-09 19:42:45,864 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2007.03.007
+2026-01-09 19:42:46,802 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2007.03.007
+2026-01-09 19:42:46,806 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2007.03.007 to file
+2026-01-09 19:42:47,873 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2011.02.037
+2026-01-09 19:42:48,787 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2011.02.037
+2026-01-09 19:42:48,789 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2011.02.037 to file
+2026-01-09 19:42:50,572 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2011.10.001
+2026-01-09 19:42:51,474 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2011.10.001
+2026-01-09 19:42:51,477 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2011.10.001 to file
+2026-01-09 19:42:52,481 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2007.05.023
+2026-01-09 19:42:53,347 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2007.05.023
+2026-01-09 19:42:53,350 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2007.05.023 to file
+2026-01-09 19:42:54,534 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.11.045
+2026-01-09 19:42:55,461 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.11.045
+2026-01-09 19:42:55,465 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.11.045 to file
+2026-01-09 19:42:56,736 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.biomaterials.2020.120238
+2026-01-09 19:42:57,656 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.biomaterials.2020.120238
+2026-01-09 19:42:57,661 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.biomaterials.2020.120238 to file
+2026-01-09 19:42:58,685 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2017.07.003
+2026-01-09 19:42:59,622 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2017.07.003
+2026-01-09 19:42:59,626 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2017.07.003 to file
+2026-01-09 19:43:00,619 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2011.04.017
+2026-01-09 19:43:01,576 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2011.04.017
+2026-01-09 19:43:01,580 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2011.04.017 to file
+2026-01-09 19:43:02,933 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2013.11.058
+2026-01-09 19:43:03,887 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2013.11.058
+2026-01-09 19:43:03,890 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2013.11.058 to file
+2026-01-09 19:43:05,421 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.08.089
+2026-01-09 19:43:06,430 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.08.089
+2026-01-09 19:43:06,437 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.08.089 to file
+2026-01-09 19:43:07,729 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.taap.2012.06.017
+2026-01-09 19:43:08,767 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.taap.2012.06.017
+2026-01-09 19:43:08,770 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.taap.2012.06.017 to file
+2026-01-09 19:43:10,192 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.biomaterials.2009.06.061
+2026-01-09 19:43:11,246 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.biomaterials.2009.06.061
+2026-01-09 19:43:11,247 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.biomaterials.2009.06.061 to file
+2026-01-09 19:43:12,362 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2009.12.040
+2026-01-09 19:43:13,377 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2009.12.040
+2026-01-09 19:43:13,380 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2009.12.040 to file
+2026-01-09 19:43:14,687 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.11.002
+2026-01-09 19:43:15,649 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.11.002
+2026-01-09 19:43:15,650 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.11.002 to file
+2026-01-09 19:43:17,269 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.colsurfb.2015.01.055
+2026-01-09 19:43:18,234 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.colsurfb.2015.01.055
+2026-01-09 19:43:18,241 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.colsurfb.2015.01.055 to file
+2026-01-09 19:43:19,402 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2009.06.004
+2026-01-09 19:43:20,279 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2009.06.004
+2026-01-09 19:43:20,281 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2009.06.004 to file
+2026-01-09 19:43:21,738 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2017.11.062
+2026-01-09 19:43:22,673 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2017.11.062
+2026-01-09 19:43:22,677 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2017.11.062 to file
+2026-01-09 19:43:23,671 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2014.04.024
+2026-01-09 19:43:24,768 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2014.04.024
+2026-01-09 19:43:24,775 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2014.04.024 to file
+2026-01-09 19:43:26,352 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2011.11.043
+2026-01-09 19:43:27,368 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2011.11.043
+2026-01-09 19:43:27,372 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2011.11.043 to file
+2026-01-09 19:43:28,568 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.11.018
+2026-01-09 19:43:29,550 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.11.018
+2026-01-09 19:43:29,553 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.ijpharm.2015.11.018 to file
+2026-01-09 19:51:55,382 - elsapy.elsclient - INFO - Module loaded.
+2026-01-09 19:51:55,383 - elsapy.elsentity - INFO - Module loaded.
+2026-01-09 19:51:55,385 - elsapy.elsdoc - INFO - Module loaded.
+2026-01-09 19:51:56,383 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2021.09.038
+2026-01-09 19:51:57,653 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2021.09.038
+2026-01-09 19:51:57,663 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.actbio.2021.09.038 to file
+2026-01-09 19:51:58,986 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2014.08.029
+2026-01-09 19:52:00,006 - elsapy.elsentity - INFO - Data loaded for https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2014.08.029
+2026-01-09 19:52:00,011 - elsapy.elsentity - INFO - Wrote https://api.elsevier.com/content/article/doi/10.1016/j.jconrel.2014.08.029 to file

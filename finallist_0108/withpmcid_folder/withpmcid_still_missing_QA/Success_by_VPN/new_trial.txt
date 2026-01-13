@@ -1,0 +1,1098 @@
+
+
+==================================================
+DOI: 10.1208/s12249-010-9455-3
+TITLE: Stability Assessment of Injectable Castor Oil-Based Nano-sized Emulsion Containing Cationic Droplets Stabilized by Poloxamer–Chitosan Emulsifier Films
+==================================================
+Research Article
+Stability Assessment of Injectable Castor Oil-Based Nano-sized Emulsion
+Containing Cationic Droplets Stabilized by Poloxamer– Chitosan
+Emulsifier Films
+S. Tamilvanan,1,2,3,4 B. Ajith Kumar,2 S. R. Senthilkumar,3 Raj Baskar,3 and T. Raja Sekharan3
+Received 7 January 2010; accepted 27 April 2010; published online 22 May 2010
+Abstract. The objectives of the present work were to prepare castor oil-based nano-sized emulsion
+containing cationic droplets stabilized by poloxamer– chitosan emulgator ﬁlm and to assess the kinetic
+stability of the prepared cationic emulsion after subjecting it to thermal processing and freeze– thaw
+cycling. Presence of cryoprotectants (5%,w/w, sucrose +5%, w/w, sorbitol) improved the stability of
+emulsions to droplet aggregation during freeze– thaw cycling. After storing the emulsion at 4°C, 25°C,
+and 37°C over a period of up to 6 months, no signiﬁcant change was noted in mean diameter of the
+dispersed oil droplets. However, the emulsion stored at the highest temperature did show a progressive
+decrease in the pH and zeta potential values, whereas the emulsion kept at the lowest temperatures did
+not. This indicates that at 37°C, free fatty acids were formed from the castor oil, and consequently, the
+liberated free fatty acids were responsible for the reduction in the emulsion pH and zeta potential values.
+Thus, the injectable castor oil-based nano-sized emulsion could be useful for incorporating various active
+pharmaceutical ingredients that are in size from small molecular drugs to large macromolecules such as
+oligonucleotides.
+KEY WORDS:castor oil; chitosan; nano-sized emulsion; poloxamer; stability.
+INTRODUCTION
+An oil-in-water (o/w) nano-sized emulsion is a hetero-
+genous dispersion of two immiscible liquids. According to the
+second law of thermodynamics, the o/w nano-sized emulsion
+is subjected to various instability processes like aggregation,
+ﬂocculation, coalescence, Ostwald ripening, and hence even-
+tual phase separation (1,2). Unlike microemulsions which are
+thermodynamically stable and clear transparent liquid system,
+macro (coarse)- and nano-sized emulsions are meta-stable
+dispersions. However, the stability of the o/w macro (coarse)-
+and nano-sized emulsions can substantially be improved with
+the help of suitable emulsiﬁers or emulgators that are capable
+of forming a mono- or multilayer coating ﬁlm around the
+dispersed oil droplets in order to reduce interfacial tension and
+to increase droplet– droplet repulsion (3). Depending on the
+concentrations of these three components (oil– emulgators–
+water) and the efﬁciency of the emulsiﬁcation equipments used
+to reduce droplet size into a nano-sized and/or monodispersed
+size range, the o/w nano-sized emulsion with improved stability
+over the desired time span (in comparison to coarse emulsion)
+can be obtained. The advantages of the nano-sized emulsion
+system include: natural biodegradability, sub-micrometer
+droplet size range, sterilizability, substantial drug solubilization
+either at the innermost oil phase or at the o/w interface,
+minimized side effects, and improved bioavailability (4). Due
+to these advantages, the nano-sized emulsion is now recognized
+as a promising drug delivery vehicle or carrier for parenteral (5)
+and topical (ocular and percutaneous) (5,6) applications.
+In general, the o/w type nano-sized emulsion (meant for
+parenteral and topical applications) consists of 0.5– 20% of oil
+or oil mixture, 0.1– 10% of an emulgator, 0.05– 5% of a nonionic
+surfactant, and permitted amount of preservatives and osmotic
+agent (5). The remaining proportion comprises an aqueous
+component. To make anionic o/w nano-sized emulsion,
+phospholipid-like Lipoid E80 either alone or in combination
+with a water-soluble nonionic surfactant (poloxamer) and a
+stabilizer-like oleic acid/cholic acid/deoxycholic acid or its
+sodium salt was used as emulgator (3). In addition, a cationic
+o/w nano-sized emulsion was prepared and stabilized by
+forming a mixed emulgator ﬁlm comprising phospholipids,
+poloxamer, and stearylamine/oleylamine at the o/w interface of
+the oil droplets (4,7). Antioxidants such asα-tocopherol was
+also included in most of the developed nano-sized emulsions in
+order to prevent the oxidative degradation of phospholipid or
+other emulsion components and thus the minimization of free
+fatty acid formation in phospholipid-based emulsions following
+autoclave sterilization and subsequent storage at stipulated
+conditions. However, even with the addition of antioxidants,
+1 International Medical University (IMU) SDN BHD, No. 126, Jalan
+19/155B, Bukit Jalil, 57000, Kuala Lumpur, Malaysia.
+2 Arulmigu Kalasalingam College of Pharmacy, Krishnankoil, Tamil
+Nadu State, India.
+3 Sankaralingam Bhuvaneswari College of Pharmacy, Sivakasi, Tamil
+Nadu State, India.
+4 To whom correspondence should be addressed. (e-mail: tamilvanan2k
+@yahoo.com)
+AAPS PharmSciTech, Vol. 11, No. 2, June 2010 (
+# 2010)
+DOI: 10.1208/s12249-010-9455-3
+1530-9932/10/0200-0904/0 # 2010 American Association of Pharmaceutical Scientists 904
+the phospholipid-containing emulsion was prone to the
+liberation of free fatty acids (from phospholipid components),
+leading to the generation microclimate acidic pH in the
+vicinity of the oil phase, oil– water interface, and water phase
+of the emulsion (8,9). The microclimate pH thus generated
+might be harmful to the emulsion-incorporated drug mole-
+cules. Up to now, the adjustment of pH of the sterilized
+emulsion by adding mild alkali is the only viable option to
+prepare the emulsion with desired near neutral value
+(pH ≈7). If free fatty acid was released or mild alkali
+solution was added during the formulation of phospholipid-
+stabilized emulsion, then incorporation of peptide or protein
+into the emulsion might be questionable due to its possible
+structural degradation/modi ﬁcation. In this context, it
+becomes necessary to develop an emulsion without the
+addition of phospholipid emulgator but still shows the
+required kinetic stability for at least over months. Therefore,
+castor oil, poloxamer– chitosan, and water are being selected
+respectively as the model oil– emulgators– water components
+to prepare the phospholipidless nano-sized emulsion.
+The objectives of the present work were to prepare
+castor oil-based nano-sized e mulsion containing cationic
+droplets stabilized by poloxamer – chitosan emulgator ﬁlm
+and to assess the kinetic stability of the prepared cationic
+emulsion after subjecting it to thermal processing and freeze–
+thaw cycling.
+MATERIALS AND METHODS
+Materials
+Castor oil andα-tocopherol were purchased from Fluka
+(St. Louis, MO, USA). Chitosan (medium molecular weight;
+deacetylation, 81%; viscosity of 1 wt.% solution in 1 wt.%
+acetic acid, 286 cps; moisture, 4.6 wt.%; ash, 0.5 wt.%) was
+obtained from Aldrich Chemical Co. (St. Louis, MO, USA).
+Polyoxyethylene– poloxypropylene emulsiﬁer, poloxamer 188
+(Pluronic F68), was furnished by BASF (Parsippany, NJ, USA).
+All other chemicals were obtained commercially and used as
+received.
+Methods
+Preparation of Nano-sized Emulsion
+The phospholipidless and castor oil-based nano-sized
+emulsion was prepared according to the method described
+elsewhere [6]. In brief, 5 ml of castor oil and 0.05 ml ofα-
+tocopherol were taken in a beaker and heated up to 70°C.
+Two hundred ﬁfty milligrams of chitosan was dissolved in
+5 ml of 0.05 M acetic acid and heated up to 70°C. Five
+hundred milligrams of poloxamer 188 was dissolved in 50 ml
+double distilled water containing 1.125 g glycerin in a
+separate beaker and heated up to 70°C. Castor oil was added
+to chitosan solution and then poloxamer– glycerin solution
+was added and stirred well by means of a magnetic stirrer.
+The resulting mixture was further heated to a temperature of
+85°C. At this temperature, the obtained crude emulsion was
+further mixed by a high shear mixer Polytron (Kinematica,
+Luzerne, Switzerland) for 5 min and rapidly cooled to below
+20°C. After cooling, the emulsion was homogenized using a
+two-stage homogenizer valve assembly (Gaulin Homogenizer,
+APV Gaulin, Hilversum, the Netherlands) at 9000 £/in.
+2 for
+5 min. The emulsion was then ﬁltered through a TE
+membrane ﬁlter (Schuell and Schleicher, Dassel, Germany)
+with a pore size of 0.45μm. The emulsion was packed under
+nitrogen atmosphere in siliconized glass bottles and then
+sterilized by steam autoclave at 121°C for 15 min. In total,
+nine replicate emulsion samples were prepared using the
+same ingredients with identical experimental conditions.
+Zeta Potential, pH, and Viscosity Measurements
+The zeta potential measurements were carried out using
+the Malvern Zetasizer 3000 (Malvern Instruments, Ltd.,
+Malvern, UK). The samples were diluted in double distilled
+water and the measurements carried out in 10 mM NaCl
+solution. Each sample was analyzed twice, each analysis
+consisting of three replicates.
+The pH was recorded at given time intervals using a pH
+meter under different storage temperatures (MP220 pH
+meter, Mettler Toledo, UK).
+An Ubbelohde capillary viscometer (Schott, Hofheim,
+Germany) was used to measure the viscosity of the emulsion
+samples stored at three different storage temperatures over
+time.
+Particle Size Analysis
+Mean droplet diameter was determined utilizing an ALV
+Noninvasive Back Scattering High Performance Particle Sizer
+(ALV-NIBS HPPS; Langen, Germany) at 25°C and using
+water (refractive index, 1.332; viscosity, 0.894543) as the
+dilution medium. A laser beam at 632-nm wavelength was
+used. The sensitivity range was 0.5 nm– 5 mm. Apart from the
+freshly prepared emulsion, the emulsions stored at 4±2°C, 25±
+2°C and 37±2°C over up to 6 months were also followed up to
+notice the change in mean droplet diameters. Values reported
+were the mean droplet diameter of triplicate emulsion samples
+stored at three different storage temperatures.
+Stability Assessment
+The pH, zeta potential, and droplet mean diameter were
+monitored over up to 6 months’ time in the emulsions stored
+at 4±2°C, 25±2°C, and 37±2°C. Three independent emulsion
+samples for each storage conditions (3×3=9 emulsions) were
+used. Possible phase separations were also assessed visually at
+given time intervals. All other visible changes were recorded.
+Accelerated Stability Test
+Since sterilization for 15 min is a drastic operation, it
+constitutes an accelerated stability test by itself. Creaming
+and phase separation were then assessed visually after
+sterilization. To evaluate the mechanical and physical resist-
+ance, the emulsion should be subjected to an accelerated
+mechanical stress. For this purpose, those emulsion bottles
+which were stored at the already stated temperature con-
+ditions for up to 6 months’ time were shaken at 100 strokes/
+minute by an oscillatory agitation motion over 24 h at 25°C.
+905Stability of Castor Oil-Based Nano-sized Emulsion
+The droplet size was evaluated before and after this accel-
+erated test.
+Freeze–Thaw Cycling Stability
+The freeze– thaw cycling stability of the emulsion in
+presence of cryoprotectants (5%, w/w, sucrose +5%, w/w,
+sorbitol) or in the absence of cryoprotectants was tested by
+transferring the emulsion sample (5 ml) into plastic test tubes
+and subsequently placing it in a−10°C freezer for 16 h and
+then thawing in a water bath at 30°C for 2 h. This freeze– thaw
+cycle was repeatedﬁve times, and its inﬂuence on emulsion
+property (particle mean diameter) was measured after each
+cycle.
+Statistical Analysis
+All the data were subjected to Student’s t test toﬁnd out
+the statistical difference. The alpha (α) value for statistical
+signiﬁcance is 0.05 (i.e.,p<0.05).
+RESULTS AND DISCUSSION
+Excipient Selection
+In the current investigation, a well-known combined
+emulsiﬁcation and homogenization technique was used to
+prepare castor oil-based nano-sized emulsion. Without the
+addition of any phospholipid emulgator, the o/w nano-sized
+emulsion was stabilized with the poloxamer– chitosan emul-
+gator ﬁlm. In an arbitrary manner, the amount of castor oil,
+poloxamer, and chitosan was chosen and kept respectively at
+5 ml, 500 mg, and 250 mg to prepare the nine replicate
+emulsion samples. In the medicalﬁeld, most of the nano-sized
+emulsion was prepared utilizing the lower viscosity and
+digestible oils, derived from the family of triglycerides, like
+medium-chain triglycerides (MCT), soybean oil, sesame seed
+oil, cottonseed oil, and saf ﬂower oil. In our preliminary
+experiments, none of the aforementioned oils is able to
+produce a stable emulsion system when poloxamer– chitosan
+emulsiﬁer combination is used. Previous literature references
+show that using corn oil as the oil phase and lecithin– chitosan
+as the emulsiﬁer combination resulted in a stable emulsion
+system (10,11). In addition, it was shown previously in the
+phospholipid-stabilized emulsion that when using castor oil as
+a single oil phase, the ﬁnal emulsion did not show stable
+behavior in the long-term stability ( 12). But it was our
+experience that in comparison to other oils, castor oil has
+higher solubilization capacity to dissolve peptidic molecule
+like cyclosporin A (9). Therefore, despite its higher viscosity,
+castor oil alone was used in that previous study to prepare the
+phospholipid-stabilized emulsion containing cyclosporin A.
+Among the different natural and synthetic antioxidant
+molecules that have been available (13), α-tocopherol was
+the widely used antioxidant to prepare phospholipid-
+stabilized nano-sized emulsion (6). The currently developed
+(phospholipidless) emulsion was prepared based on castor oil,
+stabilized with the poloxamer– chitosan emulgator ﬁlm, and
+incorporated α-tocopherol and osmotic agent.
+Particle Size and Emulsion Stabilization
+Table I shows mean droplet diameter of the o/w nano-
+sized emulsion. The mean droplet diameter was in the range
+of 218– 250 nm and presented a monodispersed droplet size
+distribution. As expected, the zeta potential of the developed
+emulsion was also in positive unit due to the presence of
+cationic polysaccharide (chitosan) at the mixed emulgator
+ﬁlm. By comparing the positive zeta potential with mean
+particle diameter at nanoscale level, it could be deduced that
+chitosan molecules are localized at the oil– water interface and
+intercalated between the nonionic poloxamer molecules.
+Therefore, the combination of steric (by poloxamer) and
+electrostatic (by cationic chitosan) repulsions was responsible
+for the stabilization of dispersed castor oil droplets in the
+phospholipidless o/w nano-sized emulsion. In addition, the
+viscosity of the freshly prepared nano-sized emulsion for-
+mulation was measured and found to be 1.5 cps.
+Furthermore, the substantial stability shown by phos-
+pholipidless and castor oil-based nano-sized emulsion even
+after autoclave sterilization could reasonably be attributed to
+the following explanation. Castor oil is known to contain
+traces of free fatty acid (recinoleic acid), and even some
+amount of fatty acid is likely to be liberated after autoclave
+Table I. Effect of Storage Temperature and Time on the Mean Droplet Diameter and Zeta Potential Values of Castor Oil-Based Nano-sized
+Emulsion
+Storage time (months)
+Physicochemical properties
+Mean droplet diameter (nm) at different storage
+temperature (°C)
+Zeta potential (mV) at different storage
+temperature (°C)
+4 25 37 4 25 37
+0 243 (±45) 243 (±48) 243 (±38) 41.4 (±1.24) 40.5 (±1.80) 47.3 (±1.91)
+1 250 (±56) 238 (±50) 240 (±35) –––
+3 235 (±45) 230 (±46) 228 (±46) –––
+6 221 (±52) 221 (±40) 218 (±50) 37.8* (±0.89) 37.2* (±2.35) 30.6* (±1.37)
+Three independent emulsion samples for each storage temperatures (3×3=9 emulsions) were used
+– Not determined
+Figures in parentheses indicate standard deviation (n=3)
+*p<0.05
+906 Tamilvanan et al.
+sterilization. After interaction with positively charged chito-
+san, the negatively charged fatty acids might acquire mild
+emulsiﬁcation property (14). A similar effect of achievement
+of emulsion kinetic stability through the same poloxamer–
+chitosan emulgatorﬁlm was reported (14,15). However, these
+authors used the oil mixture (castor oil and MCT) as an oil
+phase of the emulsion rather than single oil (castor oil) alone
+to prepare the o/w nano-sized emulsion. In this respect, our
+developed emulsion differs signi ﬁcantly from the report
+published previously by the other research groups.
+Zeta Potential and Storage Conditions
+The effect of storage temperature and time on the
+droplet mean diameter and zeta potential values of castor
+oil-based nano-sized emulsion was followed up to 6 months’
+storage time at three differ ent temperature conditions
+(Table I). It should be emphasized that in total, nine
+independent emulsion samples were used to perform the
+stability assessment. Up to 37°C, no signiﬁcant changes were
+noted in mean droplet diameter. This indicates that over this
+6-month period, castor oil- based nano-sized emulsion
+remained physically stable. However, depending on the
+storage temperatures, the zeta potential of the emulsion was
+found to decrease. Immediately after the preparation of fresh
+emulsion, the measured zeta potential was about + 41.4 mV
+(Table I). The observed high positive zeta potential value was
+sufﬁcient enough to prevent droplet coalescence upon
+random collisions and even following autoclave sterilization
+at elevated temperature. Keeping the emulsion at 37°C for up
+to 6 months decreased the zeta potential to +30.6±1.37 mV.
+The same emulsion stored at 25°C showed a lesser reduction
+in the zeta potential (+37.2±2.35 mV). At 4°C, the zeta
+potential of the emulsion was still found to be +37.8±0.89 mV.
+Statistical analysis of these data revealed signiﬁcant differ-
+ences (p<0.05; Table I). From this result, it appears that the
+lowest temperature was more adequate for castor oil-based
+nano-sized emulsion storage in terms of the emulsi ﬁed
+particle’s surface charge. It should be emphasized that an
+excessive shaking (100 strokes/minutes over 24 h) of the
+emulsion was performed following the completion of
+the storage conditions in order to verify the inﬂuence of the
+storage conditions and mechanical stress on the droplet
+diameter. No change in the mean droplet diameter was
+observed, indicating the lack of any inﬂuence before and
+after shaking of the emulsion.
+Emulsion’s pH and Storage Conditions
+The change in pH of the castor oil-based nano-sized
+emulsion with time as a function of storage temperature is
+depicted in Fig.1. The ﬁgure clearly shows the reduction of
+the emulsion’s pH at 25°C and 37°C. It should be noted that
+the initial pH of the emulsion was adjusted to 7.0 using a mild
+acid before subjecting the emulsion to sterilization. However,
+a progressive reduction in pH (1 to 4 units) of the emulsion
+was noticed when stored at 37°C. The higher is the storage
+temperature, the more is the liberation of free fatty acid
+from castor oil, resulting in the auto-alteration of the
+emulsion’s pH. At 4°C, it is interesting to see that the
+initial reduction of pH started only after 2 months, and even
+after its initiation, the progression in the reduction of pH
+was also not so rapid in the following months as compared
+to the higher storage temperatures. Thus, pH decreased only
+by one single unit.
+The combined implications of decreasing zeta potential
+and pH within the studied storage conditions in the absence
+of signi
+ﬁcant droplet diameter increase could be explained on
+the basis of the mixed poloxamer– chitosan emulgator ﬁlm
+and the observed high positive zeta potential value. Chitosan
+has a positive charge in acidic solutions due to the presence of
+protonated amino groups along its backbone that have pKa
+values between 6.3 and 7.0 (10,11). During emulsiﬁcation,
+chitosan molecules are localized at the interface and interca-
+lated between the nonionic surfactants. Hence, a mixed
+interfacial ﬁlm comprising the poloxamer and chitosan
+molecules was formed at the o/w interface which resulted in
+an overall positive surface charge (zeta potential). The high
+positive zeta potential value observed even after the higher
+storage temperatures was sufﬁcient enough to prevent droplet
+coalescence upon random collisions. Moreover, the combined
+steric (by poloxamer) and electrostatic (by cationic chitosan)
+Fig. 1. Inﬂuence of temperature over 6 months storage on the pH of
+castor oil-based nano-sized emulsion (p<0.05)
+Fig. 2. Dependence of mean particle diameter of the castor oil-based
+nano-sized emulsion on number of freeze– thaw cycles (−10°C for
+22 h/30°C for 2 h) in the absence and presence of cryoprotectants
+( p<0.05)
+907Stability of Castor Oil-Based Nano-sized Emulsion
+repulsive forces were also operating onto the dispersed castor
+oil droplets to maintain the stability of the produced nano-
+sized particles. It should be added that the viscosity of the
+emulsion stored at three different temperatures did not show
+any signiﬁcant change (data not shown). This result further
+substantiates the interfacial properties of the chitosan along
+with poloxamer. Consequently, no signiﬁcant droplet diameter
+increase was noted in the emulsion.
+Freeze– Thaw Cycling Stability and Cryoprotectants
+Preliminary experiments indicated that the emulsion was
+unstable for freeze– thaw cycling in the absence of cryopro-
+tectants. Dependence of mean particle diameter of the castor
+oil-based nano-sized emulsion on the number of freeze– thaw
+cycles (−10°C for 22 h/30°C for 2 h) in the absence and
+presence of cryoprotectants is depicted in Fig. 2. In the
+absence of cryoprotectants, the mean particle size of the
+emulsion was found to increase progressively from 243 to
+480 nm after ﬁve cycles. A number of physicochemical
+mechanisms may be responsible for the extensive droplet
+aggregation observed in the absence of cryoprotectants. First,
+when the emulsion was placed in the freezer, some of its
+water crystallized. This caused the dispersed oil droplets to
+come into closer proximity because the oil droplets were
+conﬁned to the nonfrozen regions remaining in the aqueous
+phase (16). When there was no presence of sufﬁcient free
+water to fully hydrate the oil droplet surfaces (17– 19), the
+droplet– droplet interactions was forced closer together to
+effect coalescence to occur. Second, ice crystallization led to
+an increase in the ionic strength of the freeze-concentrated
+non-frozen aqueous phase surrounding the emulsion droplets
+(18). Third, it is possible that ice crystals formed during
+freezing may have penetrated into the oil droplets and
+disrupted their interfacial membranes. This allowed the oil
+droplets more prone to coalescence between them. Fourth,
+cooling may have caused some of the fat in the emulsion
+droplets to crystallize promoting partial coalescence due to
+penetration of a fat crystal from one droplet through the
+membrane of another droplet (20,21).
+In contrast, the presence of cryoprotectants improved
+the stability of emulsions to droplet aggregation during
+freeze– thaw cycling. For example, after one cycle, there was
+no signiﬁcant change in the mean droplet diameter in the
+castor oil-based nano-sized emulsion containing 5% sucrose
+and 5% sorbitol (which remained the same around 240 nm),
+and even after ﬁve cycles, the mean droplet diameter
+increased to 260 nm only.
+A number of mechanisms have been proposed to
+account for the ability of cryoprotectants to improve the
+stability of emulsions to aggregation during freeze – thaw
+cycling. First, cryoprotectants increased the osmolyte concen-
+tration in the aqueous phase, thereby reducing its crystal-
+lization temperature. Subsequently, the total amount of ice
+crystal formation was limited, and therefore, the volume of
+non-frozen aqueous phase available to the oil droplets was
+increased (18). Second, cryoprotectants formed hydrogen
+bonds with emulsiﬁers adsorbed to droplet surfaces, thereby
+reducing the tendency for interactions to occur between
+droplet surfaces when the free water content was reduced
+by ice crystallization (19).
+CONCLUSIONS
+The castor oil-based nano-sized emulsion was prepared
+following the well-known emulsi ﬁcation–
+homogenization
+technique. To eliminate the lecithin or phospholipid (anionic)
+components, the nonionic– cationic emulgatorﬁlm was used to
+stabilize the o/w nano-sized emulsion. Regardless of the
+storage conditions, the poloxamer– chitosan emulgator ﬁlm
+was able to stabilize the castor oil-based nano-sized emulsion
+in terms of mean droplet diameter. However, the emulsion’s
+zeta potential and pH were altered with storage at all temper-
+atures. The addition of cryoprotectants stabilized the emulsion
+against droplet aggregation during freeze– thaw cycling. Fur-
+ther works are undergoing in our lab to investigate the stability
+of the castor oil-based emulsion following incorporation of
+various active pharmaceutical ingredients that range in size
+from small molecular drugs (acetazolamide, azithromycin, and
+celecoxib) to large macromolecules such as oligonucleotides.
+REFERENCES
+1. Sarkar DK. Engineering of nanoemulsions for drug delivery.
+Curr Drug Deliv. 2005;2(4):1– 14.
+2. Capek I. Degradation of kinetically-stable o/w emulsions. Adv
+Colloid Interface Sci. 2004;107:125– 55.
+3. Grigoriev DO, Miller R. Mono- and multilayer covered drops as
+carriers. Curr Opin Colloid Interface Sci. 2009;14:48– 59.
+4. Tamilvanan S. Formulation of m ultifunctional oil-in-water
+nanosized emulsions for active and passive targeting of drugs
+to otherwise inaccessible internal organs of the human body. Int
+J Pharm. 2009;381:62– 76.
+5. Tamilvanan S. Oil-in-water nanosized emulsions: medical appli-
+cations. In: Gad SC, editor. Pharmaceutical manufacturing
+handbook, Chap. 7.4. New Jersey: Wiley; 2008. p. 1329– 68.
+6. Tamilvanan S, Benita S. The potential of lipid emulsion for
+ocular delivery of lipophilic drugs. Eur J Pharm Biopharm.
+2004;58:357– 68.
+7. Korner D, Benita S, Albrecht G, Baszkin A. Surface properties of
+mixed phospholipid– stearylamine monolayers and their interaction
+with a nonionic surfactant (poloxamer). Colloids Surf. 1994;3:101– 9.
+8. Rabinovich-Guilatt L, Couvreur P, Lambert G, Goldstein D,
+Benita S, Dubernet G. Extensive surface studies help to analyse
+zeta potential data: the case of cationic emulsions. Chem Phys
+Lipids. 2004;131:1– 13.
+9. Tamilvanan S, Khoury K, Gilhar D, Benita S. Ocular delivery of
+cyclosporin A. I. Design and characterization of cyclosporin A-
+loaded positively-charged submicron emulsion. STP Pharma Sci.
+2001;11:421– 6.
+10. Ogawa S, Decker EA, McClements DJ. Inﬂuence of environ-
+mental conditions on the stability of oil in water emulsions
+containing droplets stabilized by lecithin– chitosan membranes. J
+Agric Food Chem. 2003;51(18):5522– 7.
+11. Ogawa S, Decker EA, McClements DJ. Production and charac-
+terization of o/w emulsions containing cationic droplets stabilized
+by lecithin– chitosan membranes. J Agric Food Chem. 2003;51
+(9):2806– 12.
+12. Jumaa M. Ph.D thesis, Christian Albrecht University for Kiel,
+Kiel, Germany; 1999.
+13. Blokhina O, Virolainen E, Fagerstedt KV . Antioxidants, oxida-
+tive damage and oxygen deprivation stress: a review. Ann Bot.
+2003;91:179– 94.
+14. Jumaa M, Müller BW. Physicochemical properties of chitosan–
+lipid emulsions and their stability during the autoclaving process.
+Int J Pharm. 1999;183:175– 84.
+15. Calvo P, Remuñá-López C, Vila-Jato JL, Alonso MJ. Develop-
+ment of positively charged colloidal drug carriers: chitosan-
+coated polyester nanocapsules and submicro-emulsions. Coll
+Polym Sci. 1997;275:46– 53.
+16. Saito H, Kawagishi A, Tanaka M, Tanimoto T, Okada S,
+Komatsu H, et al. Coalescence of lipid emulsions in ﬂoating
+908 Tamilvanan et al.
+and freeze-thawing processes: examination of the coalescence
+transition state theory. J Colloid Interface Sci. 1999;219:129– 34.
+17. Ausborn M, Schreier H, Brezesinski G, Fabian H, Meyer HW,
+Nuhn P. The protective effect of free and membrane bound
+cryoprotectants during freezing and freeze-drying of liposomes. J
+Control Release. 1994;30:105– 16.
+18. Komatsu H, Okada S, Handa T. Suppressive effects of salts on
+droplet coalescence in a commercially available fat emulsion
+during freezing for storage. J Pharm Sci. 1997;86:497– 502.
+19. Strauss G, Hauser H. Stabilization of lipid bilayer vesicles by
+sucrose during freezing. Proc Natl Acad Sci USA. 1986;83:2422– 6.
+20. Vanapalli SA, Palanuwech J, Coupland JN. Stability of emulsions
+to dispersed phase crystallization: effect of oil type, dispersed
+phase volume fraction, and cooling rate. Colloid Surf A.
+2002;204:227– 37.
+21. Harada T, Yokomizo K. Demulsiﬁcation of oil-in-water emulsion
+under freezing conditions: effect of crystal structure modiﬁer. J
+Am Oil Chem Soc. 2000;77:859– 63.
+909Stability of Castor Oil-Based Nano-sized Emulsion
+
+==================================================
+DOI: 10.1208/s12249-013-9996-3
+TITLE: Increased In Situ Intestinal Absorption of Phytoestrogenic Diarylheptanoids from Curcuma comosa in Nanoemulsions
+==================================================
+Research Article
+Increased In SituIntestinal Absorption of Phytoestrogenic Diarylheptanoids
+from Curcuma comosain Nanoemulsions
+Jian Su,1 Kittisak Sripanidkulchai,2 Ying Hu,1 Rungsiri Chaiittianan,1 and Bungorn Sripanidkulchai1,3
+Received 12 March 2013; accepted 13 June 2013; published online 26 June 2013
+Abstract. Curcuma comosahas long been used as a gynecological medicine. Several diarylheptanoids have
+been purified from this plant, and their pharmacological effects were proven. However, there is no
+information about the absorption ofC. comosa components to support the formulation usage. In the
+present study, C. comosa hexane extract and the mixture of its two major compounds, (4E,6E)-1,7-
+diphenylhepta-4,6-dien-3-ol (DA1) and (6E)-1,7-diphenylhept-6-en-3-ol (DA2), were formulated into
+nanoemulsions. The physical properties of the nanoemulsions and thein situ intestinal absorptions of
+DA1 and DA2 were evaluated. The results demonstrated the mean particle sizes at 0.207±0.001 and 0.408
+±0.014 μm, and the zeta potential at−14.57±0.85 and−10.47±0.32 mV forC. comosananoemulsion (C.c-
+Nano) and mixture of diarlylheptanoid nanoemulsions (DA-Nano), respectively. The entrapments of
+DA1 and DA2 were 76.61% and 75.41%, and 71.91% and 71.63% for C.c-Nano and DA-Nano, respec-
+tively. The drug loading ratios of DA1 and DA2 were 351.47 and 614.53μg/mg, and 59.48 and 126.72μg/
+mg for C.c-Nano and DA-Nano. The intestinal absorption rates of DA1 and DA2 were 0.329±0.015 and
+0.519±0.026 μg/min/cm
+2 in C.c-Nano, and 0.380±0.006 and 0.428±0.036μg/min/cm2 in DA-Nano, which
+were five to ten times faster than those in oil. In conclusion, the formulation in nanoemulsion forms
+obviously increased the intestinal absorption rate of diarylheptanoids.
+KEY WORDS:Curcuma comosa; diarylheptanoids; intestinal absorption; nanoemulsion; phytoestrogen.
+INTRODUCTION
+The medicinal plantCurcuma comosaRoxb. (Zingiberaceae)
+has been widely used in Southeast Asia for the treatment of uterine
+inflammation, postpartum uterinebleeding, premenopausal bleed-
+ing, and as an aromatic stomachic. The pharmacological effects of
+its hexane extract have been reported including its estrogenic-like
+functions (1–3), anti-inflammatory effects (4), choleretic activities
+(5,6), hypolipidemic effects (7,8), and memory improvement (9,10).
+Among many traditional herbs in Thailand, the formulations of
+herbal medicines containingC. comosaare popular in the market
+for gynecological conditions. However, all clinical reports related to
+C. comosaare empirical, and no information on the absorption
+from different formulations has been reported. Recently, several
+diarylheptanoids had been purified fromC. comosaextract, and
+their pharmacological effects were reported. Two specific mole-
+cules, (4E,6E)-1,7-diphenylhepta-4,6-dien-3-ol (DA1) and (6E)-
+1,7-diphenylhept-6-en-3-ol (DA2) (Fig.1), were reported as the
+major compounds, which comprised 16.02% and 30.66% of the
+crude extract, respectively (11). The estrogenic effect of these two
+diarylheptanoids was demonstrated in cell culture studies; thus,
+these compounds were consideredas potential phytoestrogens
+(12).
+The pharmacokinetic profiles of DA1 and DA2 were also
+studied in animals (11). TheC. comosaextract that had been
+diluted in olive oil was shown to have bioavailability of
+24.01% and 34.56% for DA1 and DA2, respectively, after oral
+administration. Although increasing the administrated dose
+resulted in a greater maximum blood concentration, lower
+bioavailability was observed most likely due to the slower
+absorption process. The C. comosa hexane extract and the
+two diarylheptanoids are lipophilic. Using XLOGP3 software
+(13) calculation, the logP values of DA1 and DA2 are 4.36
+and 4.87, respectively. The poor water solubility of these
+diarylheptanoids was of concern when considering an appro-
+priate formulation for sufficient systemic delivery of these
+active phytoestrogens.
+Nanotechnology has been widely used in the development
+of formulations of poorly soluble compounds. Nanoemulsions
+usually have droplet sizes at the scale of nanometers, and these
+can provide increased apparent water solubility, thermal stabil-
+ity, and bioavailability, consequently resulting in improved phar-
+macological effects. The benefit of nanoemulsions has been
+demonstrated with herbal products such as curcumin (14,15),
+St. John's wort extract (16), andKaempferia parvifloraextract
+(17). Moreover, nanoemulsions offer the potential to significant-
+ly improve the stability and bioavailability of certain carotenoids
+such as beta-carotene and astaxanthin (18–
+20). The main pur-
+pose of the present study was to determine an improvement in
+1 Center for Research and Development of Herbal Health Products,
+Faculty of Pharmaceutical Sciences, Khon Kaen University, Khon
+Kaen 40002, Thailand.
+2 Department of Anatomy, Faculty of Medicine, Khon Kaen Univer-
+sity, Khon Kaen 40002, Thailand.
+3 To whom correspondence should be addressed. (e-mail:
+bungorn@kku.ac.th)
+AAPS PharmSciTech, Vol. 14, No. 3, September 2013 (
+# 2013)
+DOI: 10.1208/s12249-013-9996-3
+1055 1530-9932/13/0300-1055/0 # 2013 American Association of Pharmaceutical Scientists
+the intestinal absorption ofC. comosaand the diarylheptanoids
+when formulated as a nanoemulsion. The related physical charac-
+teristics ofC. comosaextract and diarylheptanoids nanoemulsions
+were studied, and thein situintestinal absorption of the formula-
+tions was evaluated in a commonly used animal model (21,22).
+This is a preliminary study to test for the possibility to usein situ
+intestinal absorption in rats for measuring the absorption of active
+compounds of theC. comosacrude extract. The result provides
+simultaneous absorption statusof the mixture of active compounds
+in C. comosa.
+MATERIALS AND METHODS
+Chemicals and Animals
+Polyoxyethylene sorbitan monostearate (Tween 60),
+polyoxyethylene glycol 1000 (cetomacrogol 1000), and sodium
+chloride were obtained from Asia Pacific Specialty Chemicals
+Limited (Australia). Hexane and dichloromethane (HPLC
+grade) were purchased from Fisher Scientific (UK). Olive oil
+(Sabroso
+®, Spain) was obtained from a local vendor. Phenol
+red was obtained from Sigma-Aldrich Chemicals (USA).
+Female Wistar rats (8 weeks) were obtained from the
+National Animal Center, Mahidol University, Bangkok. The
+rats were housed in a room with a controlled temperature of
+25±2°C and 12-h dark/light cycles. Standard food (C.P. Ltd.;
+code, 082) and water were suppliedad libitum. The experi-
+ments were conducted under the National Institute of Health
+Guide for the Care and Use of Laboratory Animals (NIH
+Publications no. 80-23) revised in 1996 and approved by the
+Ethics Committee on Animal Care and Use of Khon Kaen
+University.
+Plant Extract and the Purified Compounds
+C. comosa rhizome was harvested from Nakon Pathom
+province, Thailand (identified and provided by Professor
+Pawinee Piyachaturawat at Mahidol University, Thailand). A
+voucher specimen was filed and kept in our laboratory (BS-C-
+03). C. comosa hexane extract was prepared before the ab-
+sorption test following our previous report (9). Briefly, dried
+samples of C. comosa were mashed to a crude powder and
+subsequently extracted inn-hexane using a Soxhlet apparatus
+until the outlet hexane was colorless. The hexane fraction was
+then evaporated to obtain a brown–yellow oily extract which
+was kept at 4°C until use. DA1 and DA2 (>98% purified)
+were kindly provided by Professor Apichart Suksamrarn at
+Ramkhamhaeng University, Thailand. DA1 and DA2 were
+used to standardize the crude extract, in which the concentra-
+tion of DA1 and DA2 were 153 and 313 mg/g, respectively. A
+HPLC test was run to make sure the extract was stable during
+the storage.
+HPLC Method Validation and Analysis
+An Agilent LC 1200 HPLC system was used with mobile
+phase consisting of 35% ofn-hexane and 65% of dichloromethane.
+A Hypersil silica column (250 mm×4.6 mm, 5μm, Thermo
+®)w a s
+used, and the column temperature was set at 25°C. The
+flow rate was maintained at 1.5 mL/min, and the detected
+wavelengths were 302 nm for DA1 and 250 nm for DA2.
+To prepare the standard refe rences, these two purified
+diarylheptanoids were separately dissolved in mobile phase to
+prepare a five-gradient concentration of 0.25, 0.05, 0.01, 0.002,
+and 0.0004 mg/mL followed by the HPLC analysis. Correlation
+coefficients (r
+2) were subsequently obtained by linear regression
+analysis. Inter-day and intra-day precisions were analyzed; the
+peak areas of DA1 and DA2 were used for calculating
+the coefficient of variation (percent CV). Accuracy and
+recovery of the DA1 and DA2 in different solutions were
+also evaluated.
+For HPLC analysis, the sample was extracted by hex-
+ane via vigorous shaking and ultrasonication for 10 min,
+followed by a 10-min centrifugation at 10,000×g. The up-
+per liquid layer in the centrifuge tube was transferred to
+an evaporator dish and dried at room temperature. This
+extraction process was repeated in triplicate. The residue
+in the evaporator dish was redissolved in 500 μLo fm o -
+bile phase for HPLC analysis.
+Preparation of Nanoemulations
+The oil-in-water nanoemulsion was prepared in two steps
+using a co-surfactant method. The oil phase consisted of two
+nonionic surfactants (polyoxyethylene sorbitan monostearate or
+Tween 60, and polyoxyethylene glycol 1000 or cetomacrogol
+1000) and olive oil (TableI). C. comosaextract or the mixture
+of DA1 and DA2 were separately added to the warm oil phase
+at 70°C and mixed for 10 min using a magnetic stirrer. The water
+phase (75°C) was then added to form the premix. After homog-
+enization using a homomixer (CKL, Selangor, Malaysia) at a
+speed of 2,000 rpm for 20 min, the pre-emulsion was passed
+through a high-pressure homogenizer (M-110P, Microfluidics
+Corporation, Newton, MA, USA) at 10,000 psi for five
+cycles to yield the nanoemulsions. The final concentration ofC.
+comosaextract nanoemulsion (C.c-Nano) was 0.83 mg/mL, which
+contained DA1 and DA2 at concentrations of 0.13 and 0.26 mg/
+mL, respectively. The same concentrations of DA1 and DA2
+were prepared in the diarylheptanoid mixture nanoemulsion
+(DA-Nano).
+Fig. 1. Structures of the two diarylheptanoids (DA1 and DA2)
+1056 Su et al.
+Preparation ofC. comosaExtract and Mixture of Diarylheptanoid
+in Olive Oil
+The C. comosa extract was diluted in olive oil to a
+concentration of 0.83 mg/mL to produce the C. comosa–
+oil solution (C.c-oil). A mixt ure of the diarylheptanoids
+was prepared by dissolving DA1 and DA2 in olive oil to
+obtain the solution DA-oil containing 0.13 and 0.26 mg/
+mL of DA1 and DA2, respectively. All of these four
+formulations were tested by HPLC to make sure they
+were stable at 37°C for 24 h.
+Particle Size and Zeta Potential
+The particle sizes of nanoemulsions were determined by
+photon correlation spectroscopy using a Mastersizer (version
+5.22, Malvern
+® Instruments, UK). The zeta potentials of the
+nanoemulsions were measured using a Zetasizer (Nano Z,
+Malvern
+® Instruments, UK).
+Morphology of the Nanoemulsions
+The morphologies of the C.c-Nano and DA-Nano
+nanoemulsions were obtained by using a scanning electron
+microscope (Hitachi ® model S-3000N, Tokyo, Japan).
+Briefly, a drop of a freshly prepared formulation was directly
+applied on the holey film grid followed by drying at room
+temperature overnight. The sample was coated with gold for
+20 min using an ion sputtering device before the scanning.
+Entrapment Efficiency and Drug Loading Ratio of Nanoemulsions
+Entrapment efficiency and drug loading ratio of the
+nanoemulsions were determined using a centrifugal filtra-
+tion device (Microcon
+® Milllipore, Billerica, MA, USA)
+fitted with a 100-kDa molecular weight cutoff filter. Two
+hundred microliters of the nanoemulsion was added to the
+sample reservoir of the Microcon ® system and then
+centrifuged at 1,500× g for 45 min at 4°C to separate
+the entrapped and unentrapped contents. The sample
+reservoir was washed twice with 100 μLo fd e i o n i z e d
+water and was followed by collection of the entire
+filtrate. The diarylheptanoi ds entrapped on the filter as
+well as the unentrapped drug in the filtrate were analyzed
+by HPLC. The entrapment efficiency (percent EE) and
+drug loading ratio (DL ratio) were calculated using the
+following equations:
+%EE ¼
+entrapped diarylheptanoids mgðÞ
+entrapped diarylheptanoids þ unentrapped diarylheptanoids mgðÞ /C2 100
+DL ratio ¼ entrapped diarylheptanoids μgðÞ
+olive oil in formulations mgðÞ
+In SituAbsorption Study
+All animals were fasted 24 h before the initiation of the
+experiments and were allowed waterad libitum. Twelve ani-
+mals were randomly separated into four groups (n=3) and
+administered the four formulations, including C.c-Nano, DA-
+Nano, C.c-oil, and DA-oil. The animals were anesthetized
+under ether and then positioned on the operation stage in
+supine position. Ether was carefully supplied by observing
+the respiration of the animals to make sure of the anesthetic
+status. A 5-cm incision was made in the abdomen to expose
+the intestines. Two incisions were made in the small intes-
+tine; a sterile influent tube was inserted in the proximal
+end, and an effluent tube was connected to the distal end,
+both of which were ligated to prevent leakage. After
+washing out the intestinal contents with normal saline at
+37°C, the drug-containing sample at 37°C from a sample
+pool was pumped through the intestine at a flow rate of
+0.4 mL/min, and the effluent was recycled into the sample
+pool. After achieving a constant flow rate, 200 μLo f
+solution was collected from the sample pool at every
+10 min for 1 h. The effluent volume of each collected
+sample was measured and used for compensating the vol-
+ume absorbed by the intestine. After all samples had been
+collected, the animals were sacrificed by ether overdose.
+The surface area of the small intestine segment used in
+the perfusion study was measured. The final absorption
+rates of the two diarylheptanoids were expressed as mi-
+crogram per minute per square centimeter. All perfusion
+studies in rats were performed in triplicate for each for-
+mulation. The blank nanoemulsion (without the plant ex-
+tract) containing a nonabsorbable marker, phenol red, at a
+Table I. Formulations of C. comosa Extract Nanoemulsion (C.c-
+Nano) and Mixture of Diarylheptanoid Nanoemulsion (DA-Nano)
+Composition (g) C.c-Nano DA-Nano
+Oil phase C. comosaextract 0.083 –
+DA1 – 0.013
+DA2 – 0.026
+Tween 60 0.083 0.250
+Cetomacrogol 1000 0.250 0.833
+Olive oil 0.250 0.833
+Aqueous phase Distilled water 99.334 98.045
+DA1 (4E,6E)-1,7-diphenylhepta-4,6-dien-3-ol, DA2 (6E)-1,7-
+diphenylhept-6-en-3-ol
+1057Increased In SituIntestinal Absorption of Diarylheptanoids
+concentration of 30 μg/mL was also tested as the control
+group (22).
+RESULTS
+HPLC Validation
+This HPLC assay was able to achieve a good separation
+of DA1 and DA2 with retention times of 16.35 and 13.29 min
+when detected at the wavelength of 302 and 250 nm, respec-
+tively (Figs.2c–f and 3c–f). The correlation coefficients of all
+calibration curves of these two compounds showed good line-
+arity (r
+2>0.999) over the test range. The percent coefficient of
+variation (%CV) of the method precision and accuracy were
+less than 0.75 and 0.77, respectively; these values were 1.39
+and 1.13 for intra- and inter-day assays, respectively. The limit of
+detection (LOD) and the limit of quantification (LOQ) of both
+DA1 and DA2 were 0.0001 and 0.0003 mg/mL, respectively. The
+average recovery was 96.8% for DA1 and 98.7% for DA2
+(TableII). The after-perfused blank oil and nanoemulsion did not
+interfere with the detection of DA1 and DA2 under the current
+conditions (Figs.2a, band 3a, b). The results indicated that the
+analytical method was reliable and reproducible.
+Fig. 2. HPLC chromatograms of DA1 in C.c-oil and C.c-Nano detected at 302 nm.a After-perfused
+blank oil solution,b after-perfused blank nanoemulsion,c C. comosaextract,d standard DA1,e C.c-oil,
+and f C.c-Nano
+1058 Su et al.
+Fig. 3. HPLC chromatograms of DA2 in C.c-oil and C.c-Nano detected at 250 nm.a After-perfused
+blank oil solution,b after-perfused blank nanoemulsion,c C. comosaextract, d standard DA2,e C.c-
+oil, andd C.c-Nano
+Table II. HPLC Method Validation of Standard Diarylheptanoids
+Standards
+Linear regression
+equation r2
+LOD
+(mg/mL)
+LOQ
+(mg/mL)
+Precision (%CV) Accuracy (%CV)
+Recovery (%)Inter-assay Intra-assay Inter-assay Intra-assay
+DA1 y=79380x+270 0.999 0.0001 0.0003 0.38 0.24 1.11 0.62 98.8
+DA2 y=79958x+236 0.999 0.0001 0.0003 1.39 0.75 1.13 0.77 98.7
+LOD limit of detection,LOQ limit of quantification,%CV percent coefficient of variation
+1059Increased In SituIntestinal Absorption of Diarylheptanoids
+Physical Characteristics of the Nanoemulsions
+The particle size distributions of the nanoemulsions were
+uniform with mean values of 0.207±0.001 and 0.408±0.014μm
+for the C.c-Nano and DA-Nano formulations, respectively
+(Table III, Fig.4). When stored at 4°C, these two formulations
+were stable as it was observed that their mean particle sizes
+were not changed (0.208±0.001 and 0.414±0.002μm, respec-
+tively). The entrapment efficiencies and drug loading ratios of
+DA1 and DA2 in the C.c-Nano and DA-Nano emulsions as
+well as the zeta potential of the nanoemulsions are reported in
+Table IV. These results showed that the entrapment efficien-
+cies for DA1 and DA2 were similar for both nanoemulsions,
+but that the drug loading of these compounds was greater for
+the C.c-Nano emulsion. Both emulsions exhibited slightly
+negative zeta potentials.
+In SituIntestinal Absorption
+After in situintestinal perfusion of the blank nanoemulsion
+containing phenol red marker, the obtained perfusate showed
+no leakage of phenol red as it was observed that the concentra-
+tions of phenol red were not changed from the original blank
+nanoemulsion. The intestinal absorption rates of DA1 and DA2
+from different formulations as shown in TableV demonstrated
+that the absorption of DA1 and DA2 in the nanoemulsions was
+more rapid than when they were formulated in oils. The absorp-
+tion of DA2 when administered in the C.c-Nano emulsion was
+notably faster than when formulated in the DA-Nano emulsion.
+Compared to the formulation in oils, the concentrations of DA1
+and DA2 in the sample pool of the formulation in
+nanoemulsions decreased more rapidly (Fig.5). This is another
+indication that DA1 and DA2 were more rapidly absorbed
+when formulated in nanoemulsions.
+DISCUSSION
+Many in vitrostudies have been conducted on the pharma-
+cological activity of compounds that have been isolated and
+purified from plants. However, further development of most of
+these compounds has been aborted because effective blood
+concentrations could not be attained, primarily due to their
+physical–chemical properties such as solubility, partition coeffi-
+cient, lipophilicity, and crystallinity. In the present study, the
+hexane extract ofC. comosaand the two diarylheptanoids were
+lipophilic. In previous studies, the hexane extract ofC. comosa
+extract was diluted in corn oil or olive oil to prepare formula-
+tions for administration of the animals (3,9). To reach a phar-
+macologically effective blood level, doses of 125–500 mg/kg
+body weight were administered (3,10). Pharmacokinetic analysis
+showed that the bioavailability of the major compounds (DA1
+and DA2) ofC. comosa extract were reduced by 35% when
+dosed at 125 mg/kg in olive oil and that this value was further
+reduced when the dose was increased to 250 mg/kg (11). For-
+mulating theC. comosaextract and the diarylheptanoids into a
+nanoemulsion can improve the intestinal absorption and in-
+crease the absorption rates of DA1 and DA2 by five- to tenfold.
+Higher bioavailability with lower administered doses ofC.
+comosa extract and diarylheptanoids was expected by formulat-
+ing them in nanoemulsions. The improvement in the absorption
+of the nanoemulsion was evidently due to the smaller droplet
+sizes and the presence of surfactants which might aid access of
+the lipophilic compounds to the intestine mucosa. The improve-
+ment in absorption of the active compounds in the
+nanoemulsion was similar to that observed for other compounds
+such as St. John's wort extract in which formulation in a
+nanoemulsion resulted in a 2.8-fold increase in bioavailability
+compared to the general extract formulation (16). Moreover, a
+curcumin nanoemulsion was reported to be comparable to the
+activity of free curcuminin vitro against a panel of human
+pancreatic cancer cell lines (14).
+In this study, the nanoemulsions were prepared by a two-
+step homogenization method. The first step was performed to
+yield a pre-emulsion; this was followed by high-pressure ho-
+mogenization to generate a nanosized diarylheptanoid emul-
+sion. Both Tween 60 and cetomacrogol 1000 are nonionic
+surfactants that have been widely used in the pharmaceutical
+products based on their safety and compatibility. The amounts
+Table III. Particle Size and Particle Size Distribution of the
+Nanoemulsions
+Formulation
+Particle size (μm)
+d (0.1) d (0.5) d (0.9)
+C.c-Nano 0.146±0.000 0.207±0.001 0.335±0.001
+DA-Nano 0.296±0.001 0.408±0.014 0.483±1.449
+C.c-Nano C. comosa nanoemulsion, DA-Nano mixture of
+diarlylheptanoid nanoemulsions
+Fig. 4. Electron microscope scanning showing the morphology of C.c-Nanoa and DA-Nanob
+1060 Su et al.
+of these compounds in the formulation were under their LD50
+values (60 mL/kg and 2–4 g/kg, respectively) (23). Olive oil
+was used due to its ability to solubilize diarylheptanoids. The
+obtained nanoemulsion droplets were monodisphere and
+spherical with diameters ranging from 200 to 400 nm and zeta
+potentials less than−10 mV (24). High entrapment efficiencies
+and drug loading ratios of both DA1 and DA2 in the
+nanoemulsion were observed. By thein situabsorption, there
+were no changes in the concentrations of phenol red in the
+after intestinal perfusate, indicating that the absorption of
+DA1 and DA2 from C.c-Nano and DA-Nano was not induced
+by a physical leakage, such as the tight-junction damage.
+However, the possible mechanism of this increase of intestinal
+absorption needed further investigation. These results suggest
+that nanoemulsions of these compounds can improve their
+absorption and bioavailability for further enhancement of
+their therapeutic efficiency.
+The C. comosa extract and DAs were stable in their
+oil solution. However, their conventional emulsions with a
+mean particle size of 14–16 μm were not stable with phase
+separation evident within 1 h, so that an absorption test
+could not be performed. The stability of the nanoemulsion
+was much greater while the particle size of both C.c-nano
+and DA-nano formulations did not change as observed at
+14 days. Moreover, after keeping the formulations up to
+3 months, there were no changes in their physical appear-
+ance. It is noticed that the particle size of DA-Nano was
+twofold larger than that o f the C.c-Nano emulsion
+(Table III). This might be because the crude extract
+contained more components than just two purified com-
+pounds. These components mi ght function as co-surfac-
+tants, which were initially partitioned into the interface,
+reducing the energy of the interface and removing the
+hydrophobic parts of the surfactant from contacts with
+water, finally resulting in the smaller particle size of crude
+extract formulation than that containing of DA1 and DA2
+(25). More interestingly, the smaller particle size resulted
+in the increased absorption of DA2 but not of DA1
+(Fig. 5). The reason was unknown, but it provided the
+information of how particle sizes affect the absorption of
+DA1 and DA2.
+Although higher absorption rates of diarylheptanoids
+were observed when formulated in nanoemulsions, a demon-
+stration of greater bioavailability needed to be obtained. After
+the active compounds were absorbed from the gastrointestinal
+tract, their concentrations in blood were also dependent on
+the first pass liver metabolism as well as by post-hepatic
+enzymes. Further study on the metabolite pattern of the
+diarylheptanoids is essential. Nanoemulsions may also induce
+changes in the absorption pattern of the other compounds
+included in the crude extract. Thus, pharmacological and tox-
+icological studies ofC. comosa extract and diarylheptanoids
+formulated in nanoemulsions are also required.
+CONCLUSION
+Nanoemulsions containing diarylheptanoids orC. comosa
+extract were successfully prepared by a two-step process. The-
+se nanoemulsions were uniform and had high entrapment
+efficiencies and drug loading ratios. The intestinal absorption
+Table IV.Percentage Entrapment Efficiency (%EE), Drug Loading Ratio, and Zeta Potential of the Nanoemulsions
+Formulation
+%EE Drug loading ratio ( μg/mg)
+Zeta potential (mV)DA1 DA2 DA1 DA2
+C.c-Nano 76.61±2.31 75.41±1.65 351.47±23.76 614.53±43.18 −14.57±0.85
+DA-Nano 71.91±6.38 71.63±4.91 59.48±14.88 126.72±26.97 −10.47±0.32
+Table V.In SituIntestinal Absorption Rates of DA1 and DA2 in Four
+Formulations
+Formulations
+Absorption rate (μg/min/cm2)
+DA1 DA2
+C.c-oil 0.031±0.003 0.109±0.022
+DA-oil 0.028±0.006 0.034±0.002
+C.c-Nano 0.329±0.015 0.519±0.026
+DA-Nano 0.380±0.006 0.428±0.036
+Fig. 5. Elimination rates of DA1 and DA2 of four formulations in the
+sample pool
+1061Increased In SituIntestinal Absorption of Diarylheptanoids
+rates of diarylheptanoids in nanoemulsions were five to ten
+times faster than when prepared as oil-based formulations
+which holds promise for improved therapeutic efficacy and
+ultimate clinical utilization.
+ACKNOWLEDGMENTS
+This work was supported by the Higher Education Re-
+search Promotion and National Research University Project
+of Thailand, Office of the Higher Education Commission,
+through the Food and Functional Food Research Cluster of
+Khon Kaen University, and the Center for Research and
+Development of Herbal Health Products, Khon Kaen
+University.
+Conflict of InterestThe authors report no declaration of interest.
+REFERENCES
+1. Piyachaturawat P, Timinkul A, Chuncharunee A, Suksamrarn A.
+Effect ofCurcuma somosaextract on male fertility in rats. Pharm
+Biol. 1999;37:22–7.
+2. Piyachaturawat P, Ercharuporn S, Suksamrarn A. Estrogenic
+activity ofCurcuma comosaextract in rats. Asia Pac J Pharmacol.
+1995;10:121–6.
+3. Piyachaturawat P, Ercharuporn S, Suksamrarn A. Uterotrophic effect
+of Curcuma comosain rats. Inter J Pharmacog. 1995;33:334–8.
+4. Jantaratnotai N, Utaisincharoen P, Piyachaturawat P, Chongthammakun
+S, Sanvarinda Y. Inhibitory effect ofCurcuma comosaon NO
+production and cytokine expression in LPS-activated microglia.
+Life Sci. 2006;78:571–7.
+5. Piyachaturawat P, Chai-ngam N, Chuncharunee A, Komaratat P,
+Suksamrarn A. Choleretic activity of phloracetophenone in rats:
+structure-function studies using acetophenone analogues. Eur J
+Pharmacol. 2000;387:221–7.
+6. Piyachaturawat P, Gansar R, Suksamrarn A. Choleretic effect of
+Curcuma comosa rhizome extracts in rats. Inter J Pharmacog.
+1996;34:174–8.
+7. Piyachaturawat P, Teeratagolpisal N, Toskulkao C, Suksamrarn
+A. Hypolipidemic effect of Curcuma comosa in mice. Artery.
+1997;22:233–41.
+8. Piyachaturawat P, Charoenpiboonsin J, Toskulkao C, Suksamrarn A.
+Reduction of plasma cholesterol byCurcuma comosaextract in
+hypercholesterolaemic hamsters. J Ethnopharmacol. 1999;66:199–204.
+9. Su J, Sripanidkulchai K, Wyss JM, Sripanidkulchai B.Curcuma comosa
+improves learning and memory function on ovariectomized rats in a
+long-term Morris water maze test. J Ethnopharmacol. 2010;130:70–5.
+10. Su J, Sripanidkulchai B, Sripanidkulchai K, Piyachaturawat P,
+Wara-Aswapati N. Effect ofCurcuma comosa and estradiol on
+the spatial memory and hippocampal estrogen receptor in the
+post-training ovariectomized rats. J Nat Med. 2011;65:57–62.
+11. Su J, Sripanidkulchai K, Suksamrarn A, Hu Y, Piyachuturawat P,
+Sripanidkulchai B. Pharmacokinetics and organ distribution of
+phytoestrogens, diarylheptanoids, fromCurcuma comosain rats.
+J Nat Med. 2012;66:468–75.
+12. Suksamrarn A, PonglikitmongkolM, Wongkrajang K, Chindaduang
+A, Kittidanairak S, Jankam A, et al. Diarylheptanoids, new
+phytoestrogens from the rhizomes ofCurcuma comosa: isolation, chem-
+ical modification and estrogenic activity evaluation. Bioorg Med Chem.
+2008;16:6891–902.
+13. Cheng T, Zhao Y, Li X, Lin F, Xu Y, Zhang X,et al. Computation
+of octanol-water partition coefficients by guiding an additive
+model with knowledge. J Chem Inf Model. 2007;47:2140–8.
+14. Bisht S, Feldmann G, Soni S, Ravi R, Karikar C, Maitra A. Poly-
+meric nanoparticle-encapsulated curcumin (“nanocurcumin”): a
+novel strategy for human cancer therapy. J Nanobiotechnol.
+2007;5:3
+–21.
+15. Tiyaboonchai W, Tungpradit W, Plianbangchang P. Formulation
+and characterization of curcuminoids loaded solid lipid
+nanoparticles. Int J Pharm. 2007;337:299–306.
+16. Hatanaka J, Shinme Y, Kuriyama K, Uchida A, Kou K, Uchida S,
+et al. In vitroand in vivocharacterization of new formulations of
+St. John's wort extract with improved pharmacokinetics and anti-
+nociceptive effect. Drug Metab Pharmacokinet. 2011;26:551–8.
+17. Sutthanut K, Lu X, Jay M, Sripanidkulchai B. Solid lipid
+nanoparticles for topical administration ofKaempferia parviflora
+extracts. J Biomed Nanotechnol. 2009;5:224–32.
+18. Amar I, Aserin A, Garti N. Solubilization patterns of lutein and
+lutein esters in food grade nonionic microemulsions. J Agric Food
+Chem. 2003;51:4775–81.
+19. Kim DM, Hyun SS, Yun P, Lee CH, Byun SY. Identification of an
+emulsifier and conditions for preparing stable nanoemulsions
+containing the antioxidant astaxanthin. Int J Cosmet Sci.
+2011;34:64–73.
+20. Spernath A, Yaghmur A, Aserin A, Hoffman RE, Garti N. Food-
+grade microemulsions based on nonionic emulsifiers: media to en-
+hance lycopene solubilization. J Agric Food Chem. 2002;50:6917–
+22.
+21. Cang J, Zhang J, Wang C, Liu Q, Meng Q, Wang D,et al.
+Pharmacokinetics and mechanism of intestinal absorption of
+JBP485 in rats. Drug Metab Pharmacokinet. 2010;25:500–7.
+22. Fong YK, Li CR, Wo SK, Wang S, Zhou L, Zhang L,et al. In vitro
+and in situevaluation of herb-drug interactions during intestinal
+metabolism and absorption of ba icalein. J Ethnopharmacol.
+2012;141:742–53.
+23. Kibbe AH. Handbook of pharmaceutical excipients. London:
+American Pharmaceutical Association & Pharmaceutical Press;
+2000.
+24. Lyklema J. Fundamentals of interface and colloid science. Lon-
+don: Academic; 1995.
+25. Anuchapreeda S, Fukumori Y, Okonogi S, Ichikawa. Preparation
+of lipid nanoemulsions incorporation curcumin of cancer therapy.
+J Nanotechnology. 2012. doi:10.1155/2012/270383.
+1062 Su et al.
