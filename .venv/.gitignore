@@ -1,0 +1,14 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment Variables (Secrets) - CRITICAL
+.env
+
+# Virtual Environment (Do not upload libraries to GitHub) - CRITICAL
+.venv/
+env/
+venv/
