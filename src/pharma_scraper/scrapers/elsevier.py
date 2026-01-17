@@ -17,9 +17,9 @@ class ElsevierScraper:
         # Note: We rely on IP authentication (VPN), so we only pass the API Key
         if self.api_key:
             self.client = ElsClient(self.api_key)
-            logger.info("✅ Elsevier Client initialized (IP Auth mode)")
+            logger.info(" Elsevier Client initialized (IP Auth mode)")
         else:
-            logger.error("❌ Elsevier API Key missing in Config")
+            logger.error(" Elsevier API Key missing in Config")
             self.client = None
 
         os.makedirs(self.output_dir, exist_ok=True)
@@ -67,9 +67,9 @@ class ElsevierScraper:
                 return True
             
             elif r.status_code == 401:
-                logger.error(f"❌ 401 Unauthorized for {doi}. Check VPN or Subscription.")
+                logger.error(f" 401 Unauthorized for {doi}. Check VPN or Subscription.")
             else:
-                logger.error(f"⚠️ Failed {doi}. Status: {r.status_code}")
+                logger.error(f" Failed {doi}. Status: {r.status_code}")
                 
         except Exception as e:
             logger.error(f"Network error for {doi}: {e}")

@@ -1,17 +1,23 @@
-[build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
-
-[project]
+[tool.poetry]
 name = "pharma_scraper"
 version = "0.1.0"
-dependencies = [
-    "requests",
-    "elsapy",
-    "curl_cffi",
-    "google-genai",
-    "pydantic",
-    "beautifulsoup4",
-    "pypdf",
-    "python-dotenv"
-]
+description = "Pharma RAG Scraper"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "pharma_scraper", from = "src"}]
+
+[tool.poetry.dependencies]
+# This fixes the version error by forcing Python 3.10 or newer
+python = "^3.10"
+requests = "*"
+elsapy = "*"
+curl-cffi = "*"
+google-genai = "*"
+pydantic = "*"
+beautifulsoup4 = "*"
+pypdf = "*"
+python-dotenv = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

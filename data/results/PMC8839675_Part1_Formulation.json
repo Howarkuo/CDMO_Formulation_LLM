@@ -1,0 +1,125 @@
+{
+    "brief_summary": "This study developed and optimized a stable topical Erlotinib (ERL) cream formulation for treating rare skin diseases, addressing the challenges of formulating ERL from tablets. Key findings include the superior extraction efficiency of dimethyl sulfoxide (DMSO) over Transcutol, achieving 100% ERL recovery. The formulation's stability was significantly improved by using 5% (v/w) DMSO, adjusting the pH to neutral (~7.0), and incorporating an antioxidant-rich cream base (Nourivan Antiox). The optimized 0.2% ERL cream demonstrated homogeneity and stability for at least 42 days at room temperature, with no detectable degradation products, making it suitable for potential clinical trials for localized skin disorders.",
+    "qa_pairs": [
+        {
+            "input_paragraph": "Erlotinib (ERL) is a very lipophilic drug (clog P ~ 3.2) and potent epidermal growth factor receptor (EGFR) inhibitor (IC50 ~ 2 nM) currently marketed as tablets (Tarceva\u00ae) for the treatment of EGFR mutation-positive non-small-cell lung cancer [1,2].",
+            "question": "1. What are the key physicochemical properties and pharmacological target of Erlotinib?",
+            "answer_and_reasoning": "Erlotinib is characterized as a very lipophilic drug with a clog P value of approximately 3.2 and functions as a potent epidermal growth factor receptor (EGFR) inhibitor with an IC50 of approximately 2 nM. This lipophilicity is important for its absorption and distribution, while its specific inhibitory action defines its therapeutic mechanism.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "Localized diseases are preferably managed using local treatment procedures. Topical forms are often preferred as in many cases they allow an improved exposition and contact with the drug and a lower systemic exposure, resulting in a decrease of the adverse effect",
+            "question": "2. What are the primary advantages of using topical formulations for localized diseases?",
+            "answer_and_reasoning": "Topical formulations are preferred for localized diseases because they enable improved drug exposure and contact at the site of action, leading to lower systemic exposure and a reduction in adverse effects compared to systemic administration.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "During preliminary studies, ERL was shown to be sensitive to oxidation and acidic pH in solution and when added to selected creams (i.e., Excipial, Nourivan Antiox, Pentravan, and Versatile).",
+            "question": "3. What intrinsic stability challenges were identified for Erlotinib during preliminary formulation studies?",
+            "answer_and_reasoning": "Preliminary studies revealed that Erlotinib is sensitive to oxidation and acidic pH when in solution and when incorporated into various cream bases. This inherent instability necessitates careful formulation strategies to maintain drug integrity.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "Erlotinib extraction from tablets was incomplete with Transcutol, whereas dimethyl sulfoxide (DMSO) allowed 100% erlotinib recovery.",
+            "question": "4. Which solvent demonstrated superior efficacy for extracting Erlotinib from tablets, and what was its recovery yield?",
+            "answer_and_reasoning": "Dimethyl sulfoxide (DMSO) allowed 100% erlotinib recovery from tablets, significantly outperforming Transcutol, which resulted in incomplete extraction. This indicates DMSO's high solubilizing capacity for Erlotinib.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "The results also showed that use of DMSO (5% v/w), neutral pH, as well as a topical agent containing antioxidant substances (Nourivan Antiox) were key factors to maintain the initial erlotinib concentration. The proposed ERL cream formulation at neutral pH contains a homogeneous amount of ERL and is stable for at least 42 days at room temperature in Nourivan cream with antioxidant properties.",
+            "question": "5. What were the key factors identified for maintaining the initial Erlotinib concentration in the cream formulation?",
+            "answer_and_reasoning": "The key factors identified for maintaining the initial Erlotinib concentration were the use of 5% (v/w) DMSO, a neutral pH, and the incorporation of a topical agent containing antioxidant substances, specifically Nourivan Antiox. These elements collectively contribute to the stability of the formulation.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "The proposed ERL cream formulation at neutral pH contains a homogeneous amount of ERL and is stable for at least 42 days at room temperature in Nourivan cream with antioxidant properties.",
+            "question": "6. What is the demonstrated stability duration of the optimized Erlotinib cream formulation at room temperature?",
+            "answer_and_reasoning": "The optimized Erlotinib cream formulation, prepared at neutral pH in Nourivan cream with antioxidant properties, is stable for at least 42 days at room temperature, maintaining a homogeneous amount of ERL.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "Based on its mechanism of action, the repurposing of this tyrosine kinase inhibitor drug has been studied in the treatment of local skin disorders such as palmoplantar keratoderma in selected patients with Olmsted syndrome [3], cutaneous squamous cell carcinoma [4], and psoriasis [5].",
+            "question": "7. For which specific local skin disorders has Erlotinib been investigated for repurposing?",
+            "answer_and_reasoning": "Erlotinib, a tyrosine kinase inhibitor, has been studied for repurposing in the treatment of local skin disorders including palmoplantar keratoderma in Olmsted syndrome patients, cutaneous squamous cell carcinoma, and psoriasis, based on its mechanism of action.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "This approach is not suitable, as the powder of the tablet gives a grainy appearance to the cream, associated with a partial ERL dissolution, and an unacceptable cream texture.",
+            "question": "8. What were the disadvantages of directly incorporating crushed Erlotinib tablets into a cream vehicle?",
+            "answer_and_reasoning": "Directly blending crushed Erlotinib tablets into a cream vehicle resulted in a grainy appearance and partial ERL dissolution, leading to an unacceptable cream texture. This highlights the necessity for a proper extraction and solubilization method before incorporation.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "ERL decrease was very fast under oxidative conditions (3% H2O2) and simulated light conditions (ICH Q1B light conditions), where about 9% and 30% loss were observed after 8 h and 24 h of exposure, respectively (Table 1).",
+            "question": "9. What was the extent of Erlotinib degradation under oxidative stress (3% H2O2) and simulated light conditions?",
+            "answer_and_reasoning": "Under oxidative conditions (3% H2O2), Erlotinib showed a very fast decrease, with approximately 9% loss after 8 hours and 30% loss after 24 hours. Under simulated light conditions (ICH Q1B), similar rapid degradation was observed, indicating high sensitivity to both factors.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "Under acidic (0.1 M HCl) and alkaline (0.1 M NaOH) conditions, the remaining amount of ERL after 21 days was 97.7% and 98.8%, respectively. As a counterpart, 3, 2, 8, and 6 degradation products were detected, respectively, under acidic, alkaline, oxidative, and photolytic conditions (Table 1).",
+            "question": "10. What was the remaining percentage of Erlotinib and the number of degradation products after 21 days under acidic and alkaline stress?",
+            "answer_and_reasoning": "After 21 days, 97.7% of Erlotinib remained under acidic (0.1 M HCl) conditions, with 3 degradation products detected. Under alkaline (0.1 M NaOH) conditions, 98.8% remained, with 2 degradation products detected. While the parent drug showed good recovery, the presence of degradation products indicates chemical changes.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "Tests were then carried out with different volumes of DMSO to solubilize the tablets and to assess what would be the minimum volume to be used to obtain an at least 95% yield. Using 2 mL and 5 mL of DMSO to solubilize a 100 mg tablet resulted in, theoretically, 50 mg\u00b7mL-1 and 20 mg\u00b7mL-1 extracts, respectively, in which ERL assays were above 95% (Figure 1). Thus, to limit drug wastage, both these extracts were retained for the preliminary stability tests of the cream.",
+            "question": "11. What were the minimum effective volumes of DMSO for achieving at least 95% Erlotinib extraction yield from a 100 mg tablet?",
+            "answer_and_reasoning": "Both 2 mL and 5 mL of DMSO were found to achieve Erlotinib extraction yields above 95% from a 100 mg tablet, resulting in theoretical concentrations of 50 mg\u00b7mL-1 and 20 mg\u00b7mL-1, respectively. These volumes were selected to optimize extraction while limiting drug wastage.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "Two-way ANOVA showed that both the amount of DMSO (p < 0.0001) and the choice of ready-to-use formulation (p = 0.001) had effects on the assay value, but interaction was found to be not significant (p = 0.218). The highest assay value (mean = 102.3%; SD = 1.1%) was obtained when the ready-to-use formulation was Nourivan Antiox\u00ae and when the formulation contained 5% DMSO. When gathering all the results of the erlotinib concentration (%, w/w) of the creams prepared as a function of DMSO content, the t-test showed a significant difference (p < 0.0001) between the group containing 2% DMSO (72.2 \u00b1 2.6%, n = 12) to that containing 5% DMSO (98.1 \u00b1 3.4%, n = 12).",
+            "question": "12. How did the concentration of DMSO (2% vs. 5% v/w) impact the Erlotinib concentration in the creams after one month?",
+            "answer_and_reasoning": "After one month, creams formulated with 5% (v/w) DMSO showed a significantly higher mean Erlotinib concentration (98.1 \u00b1 3.4%) compared to those with 2% (v/w) DMSO (72.2 \u00b1 2.6%). This indicates that a higher DMSO concentration (5%) was more effective in maintaining ERL concentration in the formulation.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "Without pH change of the blend (pH ~ 3.5), after 21 days, the mean assay of ERL was 57.0 \u00b1 3.2% (Figure 3). When adjusting the pH of the blend to a neutral value, the results complied with the specification range of 90.0\u2013110.0% from release to 42 days (Figure 3).",
+            "question": "13. What was the impact of pH adjustment from ~3.5 to neutral on Erlotinib cream stability?",
+            "answer_and_reasoning": "Without pH adjustment (pH ~ 3.5), the mean assay of ERL was only 57.0 \u00b1 3.2% after 21 days. However, when the pH was adjusted to a neutral value (~7.0), the formulation maintained ERL concentration within the 90.0\u2013110.0% specification range for up to 42 days, demonstrating a critical improvement in stability.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "This result may be explained by the fact that ERL is sensitive to oxidative degradation as highlighted by the stress testing study (Table 1 and Figure S3), and that DMSO reduces the risk of oxidation [16].",
+            "question": "14. What additional property of DMSO contributes to Erlotinib's stability beyond its solubilizing capacity?",
+            "answer_and_reasoning": "Beyond its solubilizing properties, DMSO also reduces the risk of oxidation. This is a crucial property for Erlotinib, as it is sensitive to oxidative degradation, and DMSO's antioxidant effect helps maintain the drug's stability in the formulation.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "After 42 days of storage at room temperature, no degradation products were quantitatively formed as the purity profile did not differ to that just after preparation (Figure 4). When using the proposed conditions, the risk of a toxic effect resulting from ERL degradation products seems limited.",
+            "question": "15. Were degradation products detected in the optimized Erlotinib cream formulation after 42 days of storage at room temperature?",
+            "answer_and_reasoning": "No degradation products were quantitatively formed in the optimized Erlotinib cream formulation after 42 days of storage at room temperature. The purity profile remained consistent with that immediately after preparation, suggesting a limited risk of toxic effects from degradation products.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "According to the ICH Q3C classification of solvents [18], DMSO belongs to the least toxic class of solvent (i.e., class 3), which available data indicate are less toxic in acute or short-term studies and negative in genotoxicity studies. DMSO has a low toxic potential and it is considered in ICH Q3C that amounts of DMSO of 50 mg per day or less are acceptable without justification.",
+            "question": "16. What is the safety classification of DMSO according to ICH Q3C guidelines, and what daily amount is considered acceptable without justification?",
+            "answer_and_reasoning": "According to ICH Q3C guidelines, DMSO is classified as a Class 3 solvent, indicating low toxic potential. Available data suggest it is less toxic in acute/short-term studies and negative in genotoxicity. Amounts of DMSO of 50 mg per day or less are considered acceptable without justification.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "The creams were prepared under laminar flow to minimize the risk of microbial contamination and reduce caregivers' exposure to ERL.",
+            "question": "17. What specific manufacturing condition was implemented during cream preparation to ensure product quality and safety?",
+            "answer_and_reasoning": "The creams were prepared under laminar flow conditions. This technique is crucial for minimizing the risk of microbial contamination in the final product and for reducing caregivers' exposure to Erlotinib, thereby ensuring both product quality and occupational safety.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "The use of this ERL cream formulation may be proposed in clinical trial to evaluate its action on local skin disorders while limiting the unwanted systemic effects.",
+            "question": "18. What is the proposed future application for the developed Erlotinib cream formulation?",
+            "answer_and_reasoning": "The developed Erlotinib cream formulation is proposed for clinical trials to evaluate its efficacy in treating local skin disorders, with the aim of providing therapeutic benefits while minimizing the systemic adverse effects associated with oral administration.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "The method was validated in terms of specificity, linearity, and accuracy as per the ICH Q2 guidelines [14].",
+            "question": "19. Which regulatory guidelines were followed for the validation of the analytical method used in this study?",
+            "answer_and_reasoning": "The analytical method employed in this study was validated in terms of specificity, linearity, and accuracy, adhering to the ICH Q2 guidelines. This ensures the reliability and suitability of the method for quantitative analysis of Erlotinib.",
+            "source_pmid": "35160085"
+        },
+        {
+            "input_paragraph": "The stress testing protocol, following the recommendations of ICH Q1A, and the associated results are developed in the Supplementary Materials. ERL decrease was very fast under oxidative conditions (3% H2O2) and simulated light conditions (ICH Q1B light conditions), where about 9% and 30% loss were observed after 8 h and 24 h of exposure, respectively (Table 1).",
+            "question": "20. What regulatory guidelines were followed for the stress testing protocol of Erlotinib?",
+            "answer_and_reasoning": "The stress testing protocol for Erlotinib followed the recommendations of ICH Q1A for intrinsic stability and ICH Q1B for photolytic conditions. These guidelines ensure a comprehensive evaluation of drug stability under various stress factors.",
+            "source_pmid": "35160085"
+        }
+    ]
+}

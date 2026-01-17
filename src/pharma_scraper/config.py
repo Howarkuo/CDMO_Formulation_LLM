@@ -9,12 +9,13 @@ class Config:
     ELSEVIER_API_KEY = os.getenv("ELSEVIER_API_KEY")
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     UNPAYWALL_EMAIL = os.getenv("UNPAYWALL_EMAIL")
-
+    
     # Paths
     BASE_DIR = os.getcwd()
     OUTPUT_DIR = os.path.join(BASE_DIR, "data", "pdfs")
     QA_OUTPUT_DIR = os.path.join(BASE_DIR, "data", "qa_results")
     LOG_FILE = os.path.join(BASE_DIR, "pipeline.log")
+    RESULTS_DIR = os.path.join(BASE_DIR, "data", "results")
 
     # Models
     MODEL_FAST = "gemini-2.5-flash"
