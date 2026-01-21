@@ -1,4 +1,6 @@
 ```
+## usage:  poetry run python -m pharma_scraper.pipeline
+
 pharma_scraper/
 │
 ├── pyproject.toml           # Dependency management
